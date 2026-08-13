@@ -1,0 +1,456 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "guix-install",
+          "description": "Guix System installer — libre, nonguix, panther, or enterprise",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-23T13:28:11Z",
+            "owner": "franzos",
+            "repo": "guix-install",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "esquema",
+          "description": "Rootless, daemon-free container runtime written in Scheme, integrating with Guix and Shepherd",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-04T14:31:33Z",
+            "owner": "cristiancmoises",
+            "repo": "esquema",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "guix-rs",
+          "description": "Unofficial GUI for day-to-day Guix usage",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-04T13:18:11Z",
+            "owner": "franzos",
+            "repo": "guix-rs",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "Software",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "flatwhatson/guix-channel",
+          "description": "flat's guix channel 💤",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scheme",
+            "last_commit": "2023-01-02T05:45:44Z",
+            "owner": "flatwhatson",
+            "repo": "guix-channel",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "giuliano108/guix-packages",
+          "description": "Guix on WSL2, packages and notes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scheme",
+            "last_commit": "2026-04-03T17:56:04Z",
+            "owner": "giuliano108",
+            "repo": "guix-packages",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sops-guix",
+          "description": "Secure secret management with Guix",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scheme",
+            "last_commit": "2026-04-24T22:01:48Z",
+            "owner": "fishinthecalculator",
+            "repo": "sops-guix",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rosenthal",
+          "description": "Experiments",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scheme",
+            "last_commit": "2026-08-05T13:50:32Z",
+            "owner": "rakino",
+            "repo": "Rosenthal",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "guix-rustup",
+          "description": "Guix Rustup",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scheme",
+            "last_commit": "2026-02-17T07:01:29Z",
+            "owner": "declantsien",
+            "repo": "guix-rustup",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gocix",
+          "description": "Community managed library of Guix services",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scheme",
+            "last_commit": "2026-06-20T12:23:36Z",
+            "owner": "fishinthecalculator",
+            "repo": "gocix",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bin-guix",
+          "description": "Binary packages for guix",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scheme",
+            "last_commit": "2026-07-24T22:56:12Z",
+            "owner": "ieugen",
+            "repo": "bin-guix",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "guix-tailscale",
+          "description": "Providing tailscale, tailscaled, and tailscale-service-type",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scheme",
+            "last_commit": "2026-05-14T03:25:37Z",
+            "owner": "umanwizard",
+            "repo": "guix-tailscale",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "guix-cran",
+          "description": "Contains all R packages not available in Guix yet.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scheme",
+            "last_commit": "2026-06-29T04:37:10Z",
+            "owner": "guix-science",
+            "repo": "guix-cran",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gundroid",
+          "description": "Android tools packages in Guix",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scheme",
+            "last_commit": "2026-07-13T10:48:15Z",
+            "owner": "shegeley",
+            "repo": "gundroid",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ROCKTAKEY/roquix",
+          "description": "Roquix guix channel",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scheme",
+            "last_commit": "2026-08-12T04:52:29Z",
+            "owner": "ROCKTAKEY",
+            "repo": "roquix",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "guix-cn",
+          "description": "Guix China 社区的 Guix 频道",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scheme",
+            "last_commit": "2025-10-11T22:17:29Z",
+            "owner": "guixcn",
+            "repo": "guix-channel",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "guix-telegram-desktop",
+          "description": "Latest version of telegram-desktop.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scheme",
+            "last_commit": "2026-04-04T09:05:12Z",
+            "owner": "johnlepikhin",
+            "repo": "guix-telegram-desktop",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "guix-wigust",
+          "description": "Extra packages for Guix",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scheme",
+            "last_commit": "2024-01-08T15:08:21Z",
+            "owner": "kitnil",
+            "repo": "guix-wigust",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "emacs-master",
+          "description": "Guix channel for the latest Emacs from the master branch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Emacs Lisp",
+            "last_commit": "2026-08-10T02:03:45Z",
+            "owner": "gs-101",
+            "repo": "emacs-master",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jonabron",
+          "description": "Jonabron Channel - provides osu!lazer, Vicinae, Discord, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-06T13:48:50Z",
+            "owner": "librepup",
+            "repo": "jonabron",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Channels"
+    },
+    {
+      "description": "When you're stuck, it's super helpful to see what others are doing:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "alezost/guix-config",
+          "description": "💤",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scheme",
+            "last_commit": "2021-01-04T17:14:36Z",
+            "owner": "alezost",
+            "repo": "guix-config",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "podiki/dot.me/tree/master/guix",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scheme",
+            "last_commit": "2026-08-10T17:14:44Z",
+            "owner": "podiki",
+            "repo": "dot.me",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hiecaq/guix-config",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-12T15:09:49Z",
+            "owner": "hiecaq",
+            "repo": "guix-config",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dustinlyons/guix-config",
+          "description": "💤",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2023-12-11T14:53:54Z",
+            "owner": "dustinlyons",
+            "repo": "guix-config",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aurtzy/guix-config",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scheme",
+            "last_commit": "2026-08-10T22:51:47Z",
+            "owner": "aurtzy",
+            "repo": "guix-config",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aartaka/guix-config",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scheme",
+            "last_commit": "2024-10-24T14:24:30Z",
+            "owner": "aartaka",
+            "repo": "guix-config",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "franzos/dotfiles",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scheme",
+            "last_commit": "2026-08-11T04:01:12Z",
+            "owner": "franzos",
+            "repo": "dotfiles",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SunJukebox/guix-config",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Emacs Lisp",
+            "last_commit": "2026-03-16T04:16:39Z",
+            "owner": "SunJukebox",
+            "repo": "guix-config",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Config Examples"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "metacall/guix",
+          "description": "Docker image for using Guix in a CI/CD environment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-04T11:56:59Z",
+            "owner": "metacall",
+            "repo": "guix",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "guix-vm",
+          "description": "Scripts and support necessary to make a GuixSD Virtualbox image",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-09T08:18:34Z",
+            "owner": "palfrey",
+            "repo": "guix-vm",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "guix-shell-examples",
+          "description": "Run software that is not available on Guix",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-05T13:29:14Z",
+            "owner": "nuthub",
+            "repo": "guix-shell-examples",
+            "stars": 21
+          }
+        }
+      ],
+      "title": "Misc"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T07:49:24.423Z",
+    "original_repository": "franzos/awesome-guix",
+    "original_repository_sha": "aa4f7fb802d3fa415153d3d43a6b2787ddc1dc13",
+    "enhanced_repository": "enhansome/enhansome-guix",
+    "enhanced_repository_description": null,
+    "title": "A collection of awesome guix-things with stars"
+  }
+}

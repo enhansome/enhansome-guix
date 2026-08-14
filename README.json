@@ -101,7 +101,7 @@
           "repo_info": {
             "archived": false,
             "language": "Scheme",
-            "last_commit": "2026-08-05T13:50:32Z",
+            "last_commit": "2026-08-13T21:18:03Z",
             "owner": "rakino",
             "repo": "Rosenthal",
             "stars": 46
@@ -199,7 +199,7 @@
           "repo_info": {
             "archived": false,
             "language": "Scheme",
-            "last_commit": "2026-08-12T04:52:29Z",
+            "last_commit": "2026-08-14T07:05:39Z",
             "owner": "ROCKTAKEY",
             "repo": "roquix",
             "stars": 9
@@ -446,7 +446,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T07:49:24.423Z",
+    "last_updated": "2026-08-14T07:46:47.331Z",
     "original_repository": "franzos/awesome-guix",
     "original_repository_sha": "aa4f7fb802d3fa415153d3d43a6b2787ddc1dc13",
     "enhanced_repository": "enhansome/enhansome-guix",

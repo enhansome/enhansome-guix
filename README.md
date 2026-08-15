@@ -100,7 +100,7 @@ If you are looking for a package index:
 * Guix itself:
   * [codeberg issues](https://codeberg.org/guix/guix/issues)
 * [nonguix](https://gitlab.com/nonguix/nonguix/-/work_items)
-* [pantherx](https://github.com/franzos/panther/issues) ⭐ 15 | 🐛 1 | 🌐 Scheme | 📅 2026-08-12
+* [pantherx](https://github.com/franzos/panther/issues) ⭐ 15 | 🐛 1 | 🌐 Scheme | 📅 2026-08-14
 
 ## Distributions
 
@@ -154,7 +154,7 @@ When you're stuck, it's super helpful to see what others are doing:
 
 ## Misc
 
-* [metacall/guix](https://github.com/metacall/guix) ⭐ 65 | 🐛 6 | 🌐 JavaScript | 📅 2026-05-04: Docker image for using Guix in a CI/CD environment.
+* [metacall/guix](https://github.com/metacall/guix) ⭐ 66 | 🐛 6 | 🌐 JavaScript | 📅 2026-05-04: Docker image for using Guix in a CI/CD environment.
 * [guix-vm](https://github.com/palfrey/guix-vm) ⭐ 22 | 🐛 2 | 🌐 Ruby | 📅 2026-08-09: Scripts and support necessary to make a GuixSD Virtualbox image
 * [guix-shell-examples](https://github.com/nuthub/guix-shell-examples) ⭐ 21 | 🐛 0 | 📅 2026-01-05: Run software that is not available on Guix
 * [Distrowatch](https://distrowatch.com/table.php?distribution=guixsd)
@@ -195,4 +195,4 @@ Other awesome guix lists:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._

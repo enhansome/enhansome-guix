@@ -133,7 +133,7 @@ When you're stuck, it's super helpful to see what others are doing:
 * [alezost/guix-config](https://github.com/alezost/guix-config) ⭐ 75 | 🐛 0 | 🌐 Scheme | 📅 2021-01-04 💤
 * [podiki/dot.me/tree/master/guix](https://github.com/podiki/dot.me/tree/master/guix/.config/guix) ⭐ 54 | 🐛 0 | 🌐 Scheme | 📅 2026-08-10
 * [hiecaq/guix-config](https://github.com/hiecaq/guix-config) ⭐ 41 | 🐛 0 | 📅 2026-08-12
-* [dustinlyons/guix-config](https://github.com/dustinlyons/guix-config) ⭐ 22 | 🐛 0 | 🌐 Makefile | 📅 2023-12-11 💤
+* [dustinlyons/guix-config](https://github.com/dustinlyons/guix-config) ⭐ 23 | 🐛 0 | 🌐 Makefile | 📅 2023-12-11 💤
 * [aurtzy/guix-config](https://github.com/aurtzy/guix-config) ⭐ 19 | 🐛 0 | 🌐 Scheme | 📅 2026-08-10
 * [aartaka/guix-config](https://github.com/aartaka/guix-config) ⭐ 8 | 🐛 1 | 🌐 Scheme | 📅 2024-10-24
 * [franzos/dotfiles](https://github.com/franzos/dotfiles) ⭐ 7 | 🐛 0 | 🌐 Scheme | 📅 2026-08-11
@@ -195,4 +195,4 @@ Other awesome guix lists:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._

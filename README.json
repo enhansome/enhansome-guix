@@ -334,7 +334,7 @@
             "last_commit": "2023-12-11T14:53:54Z",
             "owner": "dustinlyons",
             "repo": "guix-config",
-            "stars": 22
+            "stars": 23
           }
         },
         {
@@ -446,7 +446,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T06:55:27.009Z",
+    "last_updated": "2026-08-16T06:56:37.692Z",
     "original_repository": "franzos/awesome-guix",
     "original_repository_sha": "aa4f7fb802d3fa415153d3d43a6b2787ddc1dc13",
     "enhanced_repository": "enhansome/enhansome-guix",

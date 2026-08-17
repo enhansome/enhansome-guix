@@ -255,7 +255,7 @@
           "repo_info": {
             "archived": false,
             "language": "Emacs Lisp",
-            "last_commit": "2026-08-10T02:03:45Z",
+            "last_commit": "2026-08-17T01:26:44Z",
             "owner": "gs-101",
             "repo": "emacs-master",
             "stars": 5
@@ -317,7 +317,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-12T15:09:49Z",
+            "last_commit": "2026-08-16T13:06:56Z",
             "owner": "hiecaq",
             "repo": "guix-config",
             "stars": 41
@@ -446,7 +446,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T06:56:37.692Z",
+    "last_updated": "2026-08-17T07:13:31.042Z",
     "original_repository": "franzos/awesome-guix",
     "original_repository_sha": "aa4f7fb802d3fa415153d3d43a6b2787ddc1dc13",
     "enhanced_repository": "enhansome/enhansome-guix",

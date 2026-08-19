@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1225042264,
             "language": "Rust",
             "last_commit": "2026-07-23T13:28:11Z",
             "owner": "franzos",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1286633138,
             "language": "C",
             "last_commit": "2026-07-04T14:31:33Z",
             "owner": "cristiancmoises",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1241339550,
             "language": "Rust",
             "last_commit": "2026-07-04T13:18:11Z",
             "owner": "franzos",
@@ -49,7 +52,7 @@
       "title": "Tools"
     },
     {
-      "description": "Software",
+      "description": "Software\nIf you are looking for a package index:",
       "items": [
         {
           "node_type": "item",
@@ -58,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 261947600,
             "language": "Scheme",
             "last_commit": "2023-01-02T05:45:44Z",
             "owner": "flatwhatson",
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 266395961,
             "language": "Scheme",
             "last_commit": "2026-04-03T17:56:04Z",
             "owner": "giuliano108",
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 803536180,
             "language": "Scheme",
             "last_commit": "2026-04-24T22:01:48Z",
             "owner": "fishinthecalculator",
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 517639041,
             "language": "Scheme",
             "last_commit": "2026-08-13T21:18:03Z",
             "owner": "rakino",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 799849240,
             "language": "Scheme",
             "last_commit": "2026-02-17T07:01:29Z",
             "owner": "declantsien",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 842187847,
             "language": "Scheme",
             "last_commit": "2026-06-20T12:23:36Z",
             "owner": "fishinthecalculator",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 594885666,
             "language": "Scheme",
             "last_commit": "2026-07-24T22:56:12Z",
             "owner": "ieugen",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 861454617,
             "language": "Scheme",
             "last_commit": "2026-05-14T03:25:37Z",
             "owner": "umanwizard",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 553458650,
             "language": "Scheme",
             "last_commit": "2026-06-29T04:37:10Z",
             "owner": "guix-science",
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 604048286,
             "language": "Scheme",
             "last_commit": "2026-07-13T10:48:15Z",
             "owner": "shegeley",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 481501653,
             "language": "Scheme",
             "last_commit": "2026-08-14T07:05:39Z",
             "owner": "ROCKTAKEY",
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 281046731,
             "language": "Scheme",
             "last_commit": "2025-10-11T22:17:29Z",
             "owner": "guixcn",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1072916914,
             "language": "Scheme",
             "last_commit": "2026-04-04T09:05:12Z",
             "owner": "johnlepikhin",
@@ -240,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 260337936,
             "language": "Scheme",
             "last_commit": "2024-01-08T15:08:21Z",
             "owner": "kitnil",
@@ -254,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 917822994,
             "language": "Emacs Lisp",
             "last_commit": "2026-08-17T01:26:44Z",
             "owner": "gs-101",
@@ -268,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1150686605,
             "language": "Shell",
             "last_commit": "2026-08-06T13:48:50Z",
             "owner": "librepup",
@@ -288,6 +307,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44321862,
             "language": "Scheme",
             "last_commit": "2021-01-04T17:14:36Z",
             "owner": "alezost",
@@ -302,6 +322,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21987593,
             "language": "Scheme",
             "last_commit": "2026-08-10T17:14:44Z",
             "owner": "podiki",
@@ -316,6 +337,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 586472175,
             "language": null,
             "last_commit": "2026-08-16T13:06:56Z",
             "owner": "hiecaq",
@@ -330,6 +352,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 414310975,
             "language": "Makefile",
             "last_commit": "2023-12-11T14:53:54Z",
             "owner": "dustinlyons",
@@ -344,6 +367,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 657887337,
             "language": "Scheme",
             "last_commit": "2026-08-10T22:51:47Z",
             "owner": "aurtzy",
@@ -358,6 +382,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 267934148,
             "language": "Scheme",
             "last_commit": "2024-10-24T14:24:30Z",
             "owner": "aartaka",
@@ -372,6 +397,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 739900433,
             "language": "Scheme",
             "last_commit": "2026-08-11T04:01:12Z",
             "owner": "franzos",
@@ -386,6 +412,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 861417837,
             "language": "Emacs Lisp",
             "last_commit": "2026-03-16T04:16:39Z",
             "owner": "SunJukebox",
@@ -397,7 +424,7 @@
       "title": "Config Examples"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -406,6 +433,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 209222193,
             "language": "JavaScript",
             "last_commit": "2026-05-04T11:56:59Z",
             "owner": "metacall",
@@ -420,6 +448,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 197920511,
             "language": "Ruby",
             "last_commit": "2026-08-09T08:18:34Z",
             "owner": "palfrey",
@@ -434,6 +463,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 717363523,
             "language": null,
             "last_commit": "2026-01-05T13:29:14Z",
             "owner": "nuthub",
@@ -443,11 +473,48 @@
         }
       ],
       "title": "Misc"
+    },
+    {
+      "description": "Install almost anywhere: Guix Binary Installation\nOther awesome guix lists:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "techenthusiastsorg/awesome-guix",
+          "description": "💤",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 334424454,
+            "language": null,
+            "last_commit": "2021-04-24T06:48:35Z",
+            "owner": "techenthusiastsorg",
+            "repo": "awesome-guix",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tieong/awesome-guix",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 953448014,
+            "language": null,
+            "last_commit": "2025-06-19T21:53:05Z",
+            "owner": "tieong",
+            "repo": "awesome-guix",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "Guix on other Distros"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T07:01:46.520Z",
+    "last_updated": "2026-08-19T12:31:29.018Z",
     "original_repository": "franzos/awesome-guix",
+    "original_repository_id": 733586403,
     "original_repository_sha": "aa4f7fb802d3fa415153d3d43a6b2787ddc1dc13",
     "enhanced_repository": "enhansome/enhansome-guix",
     "enhanced_repository_description": null,

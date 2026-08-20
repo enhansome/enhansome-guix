@@ -312,7 +312,7 @@
             "last_commit": "2021-01-04T17:14:36Z",
             "owner": "alezost",
             "repo": "guix-config",
-            "stars": 75
+            "stars": 76
           }
         },
         {
@@ -512,7 +512,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:31:29.018Z",
+    "last_updated": "2026-08-20T07:02:33.732Z",
     "original_repository": "franzos/awesome-guix",
     "original_repository_id": 733586403,
     "original_repository_sha": "aa4f7fb802d3fa415153d3d43a6b2787ddc1dc13",

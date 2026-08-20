@@ -130,7 +130,7 @@ Want to run your own substitute server? Checkout [cuirass](https://guix.gnu.org/
 
 When you're stuck, it's super helpful to see what others are doing:
 
-* [alezost/guix-config](https://github.com/alezost/guix-config) ⭐ 75 | 🐛 0 | 🌐 Scheme | 📅 2021-01-04 💤
+* [alezost/guix-config](https://github.com/alezost/guix-config) ⭐ 76 | 🐛 0 | 🌐 Scheme | 📅 2021-01-04 💤
 * [podiki/dot.me/tree/master/guix](https://github.com/podiki/dot.me/tree/master/guix/.config/guix) ⭐ 54 | 🐛 0 | 🌐 Scheme | 📅 2026-08-10
 * [hiecaq/guix-config](https://github.com/hiecaq/guix-config) ⭐ 41 | 🐛 0 | 📅 2026-08-16
 * [dustinlyons/guix-config](https://github.com/dustinlyons/guix-config) ⭐ 23 | 🐛 0 | 🌐 Makefile | 📅 2023-12-11 💤
@@ -195,4 +195,4 @@ Other awesome guix lists:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._

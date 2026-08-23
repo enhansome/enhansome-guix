@@ -15,7 +15,7 @@
             "last_commit": "2026-07-23T13:28:11Z",
             "owner": "franzos",
             "repo": "guix-install",
-            "stars": 9
+            "stars": 10
           }
         },
         {
@@ -512,7 +512,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T06:56:49.375Z",
+    "last_updated": "2026-08-23T06:57:51.227Z",
     "original_repository": "franzos/awesome-guix",
     "original_repository_id": 733586403,
     "original_repository_sha": "aa4f7fb802d3fa415153d3d43a6b2787ddc1dc13",

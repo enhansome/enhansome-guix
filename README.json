@@ -198,7 +198,7 @@
             "archived": false,
             "id": 604048286,
             "language": "Scheme",
-            "last_commit": "2026-07-13T10:48:15Z",
+            "last_commit": "2026-08-24T11:08:07Z",
             "owner": "shegeley",
             "repo": "gundroid",
             "stars": 9
@@ -293,6 +293,28 @@
             "repo": "jonabron",
             "stars": 1
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "pantherx",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 726610453,
+                "language": "Scheme",
+                "last_commit": "2026-08-24T13:47:48Z",
+                "owner": "franzos",
+                "repo": "panther",
+                "stars": 15
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Issue tracker"
         }
       ],
       "title": "Channels"
@@ -512,7 +534,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T07:16:39.536Z",
+    "last_updated": "2026-08-24T14:38:56.968Z",
     "original_repository": "franzos/awesome-guix",
     "original_repository_id": 733586403,
     "original_repository_sha": "aa4f7fb802d3fa415153d3d43a6b2787ddc1dc13",

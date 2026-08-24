@@ -53,7 +53,7 @@ Software
 * [guix-cn](https://github.com/guixcn/guix-channel) ⭐ 8 | 🐛 1 | 🌐 Scheme | 📅 2025-10-11: Guix China 社区的 Guix 频道
 * [guix-telegram-desktop](https://github.com/johnlepikhin/guix-telegram-desktop) ⭐ 6 | 🐛 0 | 🌐 Scheme | 📅 2026-04-04: Latest version of telegram-desktop.
 * [guix-wigust](https://github.com/kitnil/guix-wigust) ⭐ 5 | 🐛 0 | 🌐 Scheme | 📅 2024-01-08: Extra packages for Guix
-* [emacs-master](https://github.com/gs-101/emacs-master) ⭐ 5 | 🐛 0 | 🌐 Emacs Lisp | 📅 2026-08-17: Guix channel for the latest Emacs from the master branch.
+* [emacs-master](https://github.com/gs-101/emacs-master) ⭐ 5 | 🐛 0 | 🌐 Emacs Lisp | 📅 2026-08-24: Guix channel for the latest Emacs from the master branch.
 * [Jonabron](https://github.com/librepup/jonabron) ⭐ 1 | 🐛 0 | 🌐 Shell | 📅 2026-08-06: Jonabron Channel - provides osu!lazer, Vicinae, Discord, and more.
 * Primary channel:
   * [codeberg](https://codeberg.org/guix/guix)
@@ -100,7 +100,7 @@ If you are looking for a package index:
 * Guix itself:
   * [codeberg issues](https://codeberg.org/guix/guix/issues)
 * [nonguix](https://gitlab.com/nonguix/nonguix/-/work_items)
-* [pantherx](https://github.com/franzos/panther/issues) ⭐ 15 | 🐛 1 | 🌐 Scheme | 📅 2026-08-20
+* [pantherx](https://github.com/franzos/panther/issues) ⭐ 15 | 🐛 1 | 🌐 Scheme | 📅 2026-08-24
 
 ## Distributions
 
@@ -136,7 +136,7 @@ When you're stuck, it's super helpful to see what others are doing:
 * [dustinlyons/guix-config](https://github.com/dustinlyons/guix-config) ⭐ 23 | 🐛 0 | 🌐 Makefile | 📅 2023-12-11 💤
 * [aurtzy/guix-config](https://github.com/aurtzy/guix-config) ⭐ 19 | 🐛 0 | 🌐 Scheme | 📅 2026-08-10
 * [aartaka/guix-config](https://github.com/aartaka/guix-config) ⭐ 8 | 🐛 1 | 🌐 Scheme | 📅 2024-10-24
-* [franzos/dotfiles](https://github.com/franzos/dotfiles) ⭐ 7 | 🐛 0 | 🌐 Scheme | 📅 2026-08-11
+* [franzos/dotfiles](https://github.com/franzos/dotfiles) ⭐ 7 | 🐛 0 | 🌐 Scheme | 📅 2026-08-24
 * [SunJukebox/guix-config](https://github.com/SunJukebox/guix-config) ⭐ 1 | 🐛 0 | 🌐 Emacs Lisp | 📅 2026-03-16
 * [tyreunom/system-configuration](https://framagit.org/tyreunom/system-configuration)
 * [nonguix/cuirass](https://gitlab.com/nonguix/maintenance/-/tree/master/ci?ref_type=heads)
@@ -195,4 +195,4 @@ Other awesome guix lists:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

@@ -273,7 +273,7 @@
             "archived": false,
             "id": 917822994,
             "language": "Emacs Lisp",
-            "last_commit": "2026-08-17T01:26:44Z",
+            "last_commit": "2026-08-24T01:37:34Z",
             "owner": "gs-101",
             "repo": "emacs-master",
             "stars": 5
@@ -399,7 +399,7 @@
             "archived": false,
             "id": 739900433,
             "language": "Scheme",
-            "last_commit": "2026-08-11T04:01:12Z",
+            "last_commit": "2026-08-24T01:41:15Z",
             "owner": "franzos",
             "repo": "dotfiles",
             "stars": 7
@@ -512,7 +512,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T06:57:51.227Z",
+    "last_updated": "2026-08-24T07:16:39.536Z",
     "original_repository": "franzos/awesome-guix",
     "original_repository_id": 733586403,
     "original_repository_sha": "aa4f7fb802d3fa415153d3d43a6b2787ddc1dc13",

@@ -213,7 +213,7 @@
             "archived": false,
             "id": 481501653,
             "language": "Scheme",
-            "last_commit": "2026-08-14T07:05:39Z",
+            "last_commit": "2026-08-24T15:30:45Z",
             "owner": "ROCKTAKEY",
             "repo": "roquix",
             "stars": 9
@@ -534,7 +534,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:38:56.968Z",
+    "last_updated": "2026-08-25T06:33:10.190Z",
     "original_repository": "franzos/awesome-guix",
     "original_repository_id": 733586403,
     "original_repository_sha": "aa4f7fb802d3fa415153d3d43a6b2787ddc1dc13",

@@ -42,7 +42,7 @@ Software
 * [flatwhatson/guix-channel](https://github.com/flatwhatson/guix-channel) ⭐ 107 | 🐛 0 | 🌐 Scheme | 📅 2023-01-02: flat's guix channel 💤
 * [giuliano108/guix-packages](https://github.com/giuliano108/guix-packages) ⭐ 62 | 🐛 7 | 🌐 Scheme | 📅 2026-04-03: Guix on WSL2, packages and notes
 * [sops-guix](https://github.com/fishinthecalculator/sops-guix) ⭐ 58 | 🐛 7 | 🌐 Scheme | 📅 2026-04-24: Secure secret management with Guix
-* [rosenthal](https://github.com/rakino/Rosenthal) ⭐ 46 | 🐛 1 | 🌐 Scheme | 📅 2026-08-21: Experiments
+* [rosenthal](https://github.com/rakino/Rosenthal) ⭐ 46 | 🐛 1 | 🌐 Scheme | 📅 2026-08-26: Experiments
 * [guix-rustup](https://github.com/declantsien/guix-rustup) ⭐ 30 | 🐛 4 | 🌐 Scheme | 📅 2026-02-17: Guix Rustup
 * [gocix](https://github.com/fishinthecalculator/gocix) ⭐ 28 | 🐛 8 | 🌐 Scheme | 📅 2026-06-20: Community managed library of Guix services
 * [bin-guix](https://github.com/ieugen/bin-guix) ⭐ 18 | 🐛 0 | 🌐 Scheme | 📅 2026-07-24: Binary packages for guix
@@ -195,4 +195,4 @@ Other awesome guix lists:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._

@@ -108,7 +108,7 @@
             "archived": false,
             "id": 517639041,
             "language": "Scheme",
-            "last_commit": "2026-08-21T18:59:20Z",
+            "last_commit": "2026-08-26T08:38:50Z",
             "owner": "rakino",
             "repo": "Rosenthal",
             "stars": 46
@@ -534,9 +534,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T07:05:28.199Z",
-    "original_repository": "franzos/awesome-guix",
-    "original_repository_id": 733586403,
+    "last_updated": "2026-08-27T11:41:42.162Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 733586403,
+      "language": null,
+      "last_commit": "2026-07-26T20:44:51Z",
+      "owner": "franzos",
+      "repo": "awesome-guix",
+      "stars": 137
+    },
     "original_repository_sha": "aa4f7fb802d3fa415153d3d43a6b2787ddc1dc13",
     "enhanced_repository": "enhansome/enhansome-guix",
     "enhanced_repository_description": null,

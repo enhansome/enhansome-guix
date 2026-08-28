@@ -15,8 +15,9 @@
             "last_commit": "2026-07-23T13:28:11Z",
             "owner": "franzos",
             "repo": "guix-install",
-            "stars": 10
-          }
+            "stars": 11
+          },
+          "first_seen": "2026-08-28T18:36:49.323Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "cristiancmoises",
             "repo": "esquema",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T18:36:49.323Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "franzos",
             "repo": "guix-rs",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T18:36:49.323Z"
         }
       ],
       "title": "Tools"
@@ -67,7 +70,8 @@
             "owner": "flatwhatson",
             "repo": "guix-channel",
             "stars": 107
-          }
+          },
+          "first_seen": "2026-08-28T18:36:49.323Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "giuliano108",
             "repo": "guix-packages",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T18:36:49.323Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "fishinthecalculator",
             "repo": "sops-guix",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T18:36:49.323Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "rakino",
             "repo": "Rosenthal",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T18:36:49.323Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "declantsien",
             "repo": "guix-rustup",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T18:36:49.323Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "fishinthecalculator",
             "repo": "gocix",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T18:36:49.323Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "ieugen",
             "repo": "bin-guix",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T18:36:49.323Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "umanwizard",
             "repo": "guix-tailscale",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T18:36:49.323Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "guix-science",
             "repo": "guix-cran",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T18:36:49.323Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "shegeley",
             "repo": "gundroid",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T18:36:49.323Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "ROCKTAKEY",
             "repo": "roquix",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T18:36:49.323Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "guixcn",
             "repo": "guix-channel",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T18:36:49.323Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "johnlepikhin",
             "repo": "guix-telegram-desktop",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T18:36:49.323Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "kitnil",
             "repo": "guix-wigust",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T18:36:49.323Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "gs-101",
             "repo": "emacs-master",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T18:36:49.323Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "librepup",
             "repo": "jonabron",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T18:36:49.323Z"
         },
         {
           "children": [
@@ -309,7 +328,8 @@
                 "owner": "franzos",
                 "repo": "panther",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T18:36:49.323Z"
             }
           ],
           "description": null,
@@ -335,7 +355,8 @@
             "owner": "alezost",
             "repo": "guix-config",
             "stars": 75
-          }
+          },
+          "first_seen": "2026-08-28T18:36:49.323Z"
         },
         {
           "node_type": "item",
@@ -350,7 +371,8 @@
             "owner": "podiki",
             "repo": "dot.me",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T18:36:49.323Z"
         },
         {
           "node_type": "item",
@@ -365,7 +387,8 @@
             "owner": "hiecaq",
             "repo": "guix-config",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T18:36:49.323Z"
         },
         {
           "node_type": "item",
@@ -380,7 +403,8 @@
             "owner": "dustinlyons",
             "repo": "guix-config",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T18:36:49.323Z"
         },
         {
           "node_type": "item",
@@ -395,7 +419,8 @@
             "owner": "aurtzy",
             "repo": "guix-config",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T18:36:49.323Z"
         },
         {
           "node_type": "item",
@@ -410,7 +435,8 @@
             "owner": "aartaka",
             "repo": "guix-config",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T18:36:49.323Z"
         },
         {
           "node_type": "item",
@@ -425,7 +451,8 @@
             "owner": "franzos",
             "repo": "dotfiles",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T18:36:49.323Z"
         },
         {
           "node_type": "item",
@@ -440,7 +467,8 @@
             "owner": "SunJukebox",
             "repo": "guix-config",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T18:36:49.323Z"
         }
       ],
       "title": "Config Examples"
@@ -461,7 +489,8 @@
             "owner": "metacall",
             "repo": "guix",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T18:36:49.323Z"
         },
         {
           "node_type": "item",
@@ -476,7 +505,8 @@
             "owner": "palfrey",
             "repo": "guix-vm",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T18:36:49.323Z"
         },
         {
           "node_type": "item",
@@ -491,7 +521,8 @@
             "owner": "nuthub",
             "repo": "guix-shell-examples",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T18:36:49.323Z"
         }
       ],
       "title": "Misc"
@@ -511,8 +542,9 @@
             "last_commit": "2021-04-24T06:48:35Z",
             "owner": "techenthusiastsorg",
             "repo": "awesome-guix",
-            "stars": 70
-          }
+            "stars": 71
+          },
+          "first_seen": "2026-08-28T18:36:49.323Z"
         },
         {
           "node_type": "item",
@@ -527,14 +559,15 @@
             "owner": "tieong",
             "repo": "awesome-guix",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T18:36:49.323Z"
         }
       ],
       "title": "Guix on other Distros"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T17:35:41.901Z",
+    "last_updated": "2026-08-28T18:36:49.323Z",
     "original_repository_info": {
       "archived": false,
       "id": 733586403,
@@ -542,7 +575,7 @@
       "last_commit": "2026-07-26T20:44:51Z",
       "owner": "franzos",
       "repo": "awesome-guix",
-      "stars": 137
+      "stars": 138
     },
     "original_repository_sha": "aa4f7fb802d3fa415153d3d43a6b2787ddc1dc13",
     "enhanced_repository": "enhansome/enhansome-guix",

@@ -29,7 +29,7 @@ Definitely checkout the [Guix Blog](https://guix.gnu.org/en/blog/) for announcem
 
 ## Tools
 
-* [guix-install](https://github.com/franzos/guix-install) ⭐ 10 | 🐛 1 | 🌐 Rust | 📅 2026-07-23: Guix System installer — libre, nonguix, panther, or enterprise
+* [guix-install](https://github.com/franzos/guix-install) ⭐ 11 | 🐛 1 | 🌐 Rust | 📅 2026-07-23: Guix System installer — libre, nonguix, panther, or enterprise
 * [esquema](https://github.com/cristiancmoises/esquema) ⭐ 6 | 🐛 0 | 🌐 C | 📅 2026-07-04: Rootless, daemon-free container runtime written in Scheme, integrating with Guix and Shepherd
 * [guix-rs](https://github.com/franzos/guix-rs) ⭐ 5 | 🐛 1 | 🌐 Rust | 📅 2026-07-04: Unofficial GUI for day-to-day Guix usage
 * [Guix Packager](https://guix-hpc.gitlabpages.inria.fr/guix-packager/): Write a package definition in a breeze
@@ -189,10 +189,10 @@ Install almost anywhere: [Guix Binary Installation](https://guix.gnu.org/manual/
 
 Other awesome guix lists:
 
-* [techenthusiastsorg/awesome-guix](https://github.com/techenthusiastsorg/awesome-guix) ⭐ 70 | 🐛 0 | 📅 2021-04-24 💤
+* [techenthusiastsorg/awesome-guix](https://github.com/techenthusiastsorg/awesome-guix) ⭐ 71 | 🐛 0 | 📅 2021-04-24 💤
 * [tieong/awesome-guix](https://github.com/tieong/awesome-guix) ⭐ 16 | 🐛 0 | 📅 2025-06-19
 * [lle-bout/awesome-guix](https://sr.ht/~lle-bout/awesome-guix/) 💤
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._

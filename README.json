@@ -33,6 +33,32 @@
         },
         {
           "node_type": "item",
+          "title": "guix-rs",
+          "description": "Unofficial GUI for day-to-day Guix usage",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": " The unofficial, missing GUI for day-to-day Guix usage (+ rust library) — search, install, upgrade, and (with polkit) pull and reconfigure the system. ",
+            "homepage": "https://gofranz.com/software/guix-rs/",
+            "id": 1241339550,
+            "language": "Rust",
+            "license": "GPL-3.0",
+            "last_commit": "2026-07-04T13:18:11Z",
+            "open_issues": 1,
+            "owner": "franzos",
+            "repo": "guix-rs",
+            "stars": 6,
+            "topics": [
+              "guix",
+              "guixsd",
+              "packages",
+              "packages-manager"
+            ]
+          },
+          "first_seen": "2026-08-28T18:36:49.323Z"
+        },
+        {
+          "node_type": "item",
           "title": "esquema",
           "description": "Rootless, daemon-free container runtime written in Scheme, integrating with Guix and Shepherd",
           "children": [],
@@ -49,32 +75,6 @@
             "repo": "esquema",
             "stars": 6,
             "topics": []
-          },
-          "first_seen": "2026-08-28T18:36:49.323Z"
-        },
-        {
-          "node_type": "item",
-          "title": "guix-rs",
-          "description": "Unofficial GUI for day-to-day Guix usage",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": " The unofficial, missing GUI for day-to-day Guix usage (+ rust library) — search, install, upgrade, and (with polkit) pull and reconfigure the system. ",
-            "homepage": "https://gofranz.com/software/guix-rs/",
-            "id": 1241339550,
-            "language": "Rust",
-            "license": "GPL-3.0",
-            "last_commit": "2026-07-04T13:18:11Z",
-            "open_issues": 1,
-            "owner": "franzos",
-            "repo": "guix-rs",
-            "stars": 5,
-            "topics": [
-              "guix",
-              "guixsd",
-              "packages",
-              "packages-manager"
-            ]
           },
           "first_seen": "2026-08-28T18:36:49.323Z"
         }
@@ -317,7 +317,7 @@
             "id": 481501653,
             "language": "Scheme",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-30T11:40:55Z",
+            "last_commit": "2026-08-30T16:08:30Z",
             "open_issues": 19,
             "owner": "ROCKTAKEY",
             "repo": "roquix",
@@ -409,7 +409,7 @@
             "id": 917822994,
             "language": "Emacs Lisp",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-24T01:37:34Z",
+            "last_commit": "2026-08-31T04:38:53Z",
             "open_issues": 0,
             "owner": "gs-101",
             "repo": "emacs-master",
@@ -551,7 +551,7 @@
             "id": 586472175,
             "language": null,
             "license": "GPL-3.0",
-            "last_commit": "2026-08-16T13:06:56Z",
+            "last_commit": "2026-08-30T14:07:27Z",
             "open_issues": 0,
             "owner": "hiecaq",
             "repo": "guix-config",
@@ -822,7 +822,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T11:50:23.057Z",
+    "last_updated": "2026-08-31T13:37:38.713Z",
     "original_repository_info": {
       "archived": false,
       "description": "Docs, Channels, example configs and more - Guix is Awesome",

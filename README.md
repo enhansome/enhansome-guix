@@ -30,8 +30,8 @@ Definitely checkout the [Guix Blog](https://guix.gnu.org/en/blog/) for announcem
 ## Tools
 
 * [guix-install](https://github.com/franzos/guix-install) ⭐ 11 | 🐛 1 | 🌐 Rust | 📅 2026-07-23: Guix System installer — libre, nonguix, panther, or enterprise
+* [guix-rs](https://github.com/franzos/guix-rs) ⭐ 6 | 🐛 1 | 🌐 Rust | 📅 2026-07-04: Unofficial GUI for day-to-day Guix usage
 * [esquema](https://github.com/cristiancmoises/esquema) ⭐ 6 | 🐛 0 | 🌐 C | 📅 2026-07-04: Rootless, daemon-free container runtime written in Scheme, integrating with Guix and Shepherd
-* [guix-rs](https://github.com/franzos/guix-rs) ⭐ 5 | 🐛 1 | 🌐 Rust | 📅 2026-07-04: Unofficial GUI for day-to-day Guix usage
 * [Guix Packager](https://guix-hpc.gitlabpages.inria.fr/guix-packager/): Write a package definition in a breeze
 * [System Config Generator](https://www.pantherx.org/configs/) for PantherX OS (similiar to guix)
 
@@ -53,7 +53,7 @@ Software
 * [guix-cn](https://github.com/guixcn/guix-channel) ⭐ 8 | 🐛 1 | 🌐 Scheme | 📅 2025-10-11: Guix China 社区的 Guix 频道
 * [guix-telegram-desktop](https://github.com/johnlepikhin/guix-telegram-desktop) ⭐ 6 | 🐛 1 | 🌐 Scheme | 📅 2026-08-29: Latest version of telegram-desktop.
 * [guix-wigust](https://github.com/kitnil/guix-wigust) ⭐ 5 | 🐛 0 | 🌐 Scheme | 📅 2024-01-08: Extra packages for Guix
-* [emacs-master](https://github.com/gs-101/emacs-master) ⭐ 5 | 🐛 0 | 🌐 Emacs Lisp | 📅 2026-08-24: Guix channel for the latest Emacs from the master branch.
+* [emacs-master](https://github.com/gs-101/emacs-master) ⭐ 5 | 🐛 0 | 🌐 Emacs Lisp | 📅 2026-08-31: Guix channel for the latest Emacs from the master branch.
 * [Jonabron](https://github.com/librepup/jonabron) ⭐ 1 | 🐛 0 | 🌐 Shell | 📅 2026-08-06: Jonabron Channel - provides osu!lazer, Vicinae, Discord, and more.
 * Primary channel:
   * [codeberg](https://codeberg.org/guix/guix)
@@ -132,7 +132,7 @@ When you're stuck, it's super helpful to see what others are doing:
 
 * [alezost/guix-config](https://github.com/alezost/guix-config) ⭐ 75 | 🐛 0 | 🌐 Scheme | 📅 2021-01-04 💤
 * [podiki/dot.me/tree/master/guix](https://github.com/podiki/dot.me/tree/master/guix/.config/guix) ⭐ 54 | 🐛 0 | 🌐 Scheme | 📅 2026-08-10
-* [hiecaq/guix-config](https://github.com/hiecaq/guix-config) ⭐ 41 | 🐛 0 | 📅 2026-08-16
+* [hiecaq/guix-config](https://github.com/hiecaq/guix-config) ⭐ 41 | 🐛 0 | 📅 2026-08-30
 * [dustinlyons/guix-config](https://github.com/dustinlyons/guix-config) ⭐ 23 | 🐛 0 | 🌐 Makefile | 📅 2023-12-11 💤
 * [aurtzy/guix-config](https://github.com/aurtzy/guix-config) ⭐ 19 | 🐛 0 | 🌐 Scheme | 📅 2026-08-10
 * [aartaka/guix-config](https://github.com/aartaka/guix-config) ⭐ 8 | 🐛 1 | 🌐 Scheme | 📅 2024-10-24
@@ -195,4 +195,4 @@ Other awesome guix lists:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._

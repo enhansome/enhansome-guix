@@ -29,7 +29,7 @@ Definitely checkout the [Guix Blog](https://guix.gnu.org/en/blog/) for announcem
 
 ## Tools
 
-* [guix-install](https://github.com/franzos/guix-install) ⭐ 11 | 🐛 1 | 🌐 Rust | 📅 2026-07-23: Guix System installer — libre, nonguix, panther, or enterprise
+* [guix-install](https://github.com/franzos/guix-install) ⭐ 11 | 🐛 2 | 🌐 Rust | 📅 2026-07-23: Guix System installer — libre, nonguix, panther, or enterprise
 * [guix-rs](https://github.com/franzos/guix-rs) ⭐ 6 | 🐛 1 | 🌐 Rust | 📅 2026-07-04: Unofficial GUI for day-to-day Guix usage
 * [esquema](https://github.com/cristiancmoises/esquema) ⭐ 6 | 🐛 0 | 🌐 C | 📅 2026-07-04: Rootless, daemon-free container runtime written in Scheme, integrating with Guix and Shepherd
 * [Guix Packager](https://guix-hpc.gitlabpages.inria.fr/guix-packager/): Write a package definition in a breeze
@@ -195,4 +195,4 @@ Other awesome guix lists:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._

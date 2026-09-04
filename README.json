@@ -822,7 +822,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T11:08:25.267Z",
+    "last_updated": "2026-09-04T11:11:39.864Z",
     "original_repository_info": {
       "archived": false,
       "description": "Docs, Channels, example configs and more - Guix is Awesome",
@@ -834,7 +834,7 @@
       "open_issues": 1,
       "owner": "franzos",
       "repo": "awesome-guix",
-      "stars": 138,
+      "stars": 139,
       "topics": [
         "awesome-list",
         "guix",

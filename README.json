@@ -68,8 +68,8 @@
             "homepage": null,
             "id": 1286633138,
             "language": "C",
-            "license": "GPL-3.0",
-            "last_commit": "2026-07-04T14:31:33Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-09-07T02:05:28Z",
             "open_issues": 0,
             "owner": "cristiancmoises",
             "repo": "esquema",
@@ -190,7 +190,7 @@
             "open_issues": 4,
             "owner": "declantsien",
             "repo": "guix-rustup",
-            "stars": 30,
+            "stars": 31,
             "topics": []
           },
           "first_seen": "2026-08-28T18:36:49.323Z"
@@ -317,8 +317,8 @@
             "id": 481501653,
             "language": "Scheme",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-06T09:59:55Z",
-            "open_issues": 20,
+            "last_commit": "2026-09-07T11:26:06Z",
+            "open_issues": 19,
             "owner": "ROCKTAKEY",
             "repo": "roquix",
             "stars": 9,
@@ -409,7 +409,7 @@
             "id": 917822994,
             "language": "Emacs Lisp",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-31T04:38:53Z",
+            "last_commit": "2026-09-07T03:42:33Z",
             "open_issues": 0,
             "owner": "gs-101",
             "repo": "emacs-master",
@@ -463,7 +463,7 @@
                 "id": 726610453,
                 "language": "Scheme",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-05T13:47:42Z",
+                "last_commit": "2026-09-06T12:31:09Z",
                 "open_issues": 1,
                 "owner": "franzos",
                 "repo": "panther",
@@ -551,7 +551,7 @@
             "id": 586472175,
             "language": null,
             "license": "GPL-3.0",
-            "last_commit": "2026-08-30T14:07:27Z",
+            "last_commit": "2026-09-06T12:16:04Z",
             "open_issues": 0,
             "owner": "hiecaq",
             "repo": "guix-config",
@@ -616,6 +616,32 @@
         },
         {
           "node_type": "item",
+          "title": "franzos/dotfiles",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Guix dotflines",
+            "homepage": null,
+            "id": 739900433,
+            "language": "Scheme",
+            "license": null,
+            "last_commit": "2026-08-26T07:00:43Z",
+            "open_issues": 0,
+            "owner": "franzos",
+            "repo": "dotfiles",
+            "stars": 8,
+            "topics": [
+              "dotfiles",
+              "guix",
+              "guix-configuration",
+              "guix-home"
+            ]
+          },
+          "first_seen": "2026-08-28T18:36:49.323Z"
+        },
+        {
+          "node_type": "item",
           "title": "aartaka/guix-config",
           "description": null,
           "children": [],
@@ -635,32 +661,6 @@
               "dotfiles",
               "guix",
               "guixsd"
-            ]
-          },
-          "first_seen": "2026-08-28T18:36:49.323Z"
-        },
-        {
-          "node_type": "item",
-          "title": "franzos/dotfiles",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Guix dotflines",
-            "homepage": null,
-            "id": 739900433,
-            "language": "Scheme",
-            "license": null,
-            "last_commit": "2026-08-26T07:00:43Z",
-            "open_issues": 0,
-            "owner": "franzos",
-            "repo": "dotfiles",
-            "stars": 7,
-            "topics": [
-              "dotfiles",
-              "guix",
-              "guix-configuration",
-              "guix-home"
             ]
           },
           "first_seen": "2026-08-28T18:36:49.323Z"
@@ -822,7 +822,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T10:50:41.198Z",
+    "last_updated": "2026-09-07T12:22:48.864Z",
     "original_repository_info": {
       "archived": false,
       "description": "Docs, Channels, example configs and more - Guix is Awesome",

@@ -317,7 +317,7 @@
             "id": 481501653,
             "language": "Scheme",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-07T11:26:06Z",
+            "last_commit": "2026-09-07T15:28:02Z",
             "open_issues": 19,
             "owner": "ROCKTAKEY",
             "repo": "roquix",
@@ -463,7 +463,7 @@
                 "id": 726610453,
                 "language": "Scheme",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-06T12:31:09Z",
+                "last_commit": "2026-09-07T15:40:47Z",
                 "open_issues": 1,
                 "owner": "franzos",
                 "repo": "panther",
@@ -822,7 +822,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T12:22:48.864Z",
+    "last_updated": "2026-09-08T11:11:17.770Z",
     "original_repository_info": {
       "archived": false,
       "description": "Docs, Channels, example configs and more - Guix is Awesome",

@@ -31,7 +31,7 @@ Definitely checkout the [Guix Blog](https://guix.gnu.org/en/blog/) for announcem
 
 * [guix-install](https://github.com/franzos/guix-install) ⭐ 11 | 🐛 0 | 🌐 Rust | 📅 2026-09-05: Guix System installer — libre, nonguix, panther, or enterprise
 * [guix-rs](https://github.com/franzos/guix-rs) ⭐ 6 | 🐛 1 | 🌐 Rust | 📅 2026-07-04: Unofficial GUI for day-to-day Guix usage
-* [esquema](https://github.com/cristiancmoises/esquema) ⭐ 6 | 🐛 0 | 🌐 C | 📅 2026-09-07: Rootless, daemon-free container runtime written in Scheme, integrating with Guix and Shepherd
+* [esquema](https://github.com/cristiancmoises/esquema) ⭐ 6 | 🐛 0 | 🌐 C | 📅 2026-09-09: Rootless, daemon-free container runtime written in Scheme, integrating with Guix and Shepherd
 * [Guix Packager](https://guix-hpc.gitlabpages.inria.fr/guix-packager/): Write a package definition in a breeze
 * [System Config Generator](https://www.pantherx.org/configs/) for PantherX OS (similiar to guix)
 
@@ -97,7 +97,7 @@ If you are looking for a package index:
 
 ### Issue tracker
 
-* [pantherx](https://github.com/franzos/panther/issues) ⭐ 15 | 🐛 1 | 🌐 Scheme | 📅 2026-09-07
+* [pantherx](https://github.com/franzos/panther/issues) ⭐ 15 | 🐛 1 | 🌐 Scheme | 📅 2026-09-09
 * Guix itself:
   * [codeberg issues](https://codeberg.org/guix/guix/issues)
 * [nonguix](https://gitlab.com/nonguix/nonguix/-/work_items)
@@ -195,4 +195,4 @@ Other awesome guix lists:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._

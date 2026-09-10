@@ -134,7 +134,7 @@ When you're stuck, it's super helpful to see what others are doing:
 * [podiki/dot.me/tree/master/guix](https://github.com/podiki/dot.me/tree/master/guix/.config/guix) ⭐ 54 | 🐛 0 | 🌐 Scheme | 📅 2026-08-10
 * [hiecaq/guix-config](https://github.com/hiecaq/guix-config) ⭐ 41 | 🐛 0 | 📅 2026-09-06
 * [dustinlyons/guix-config](https://github.com/dustinlyons/guix-config) ⭐ 23 | 🐛 0 | 🌐 Makefile | 📅 2023-12-11 💤
-* [aurtzy/guix-config](https://github.com/aurtzy/guix-config) ⭐ 19 | 🐛 0 | 🌐 Scheme | 📅 2026-09-02
+* [aurtzy/guix-config](https://github.com/aurtzy/guix-config) ⭐ 19 | 🐛 0 | 🌐 Scheme | 📅 2026-09-10
 * [franzos/dotfiles](https://github.com/franzos/dotfiles) ⭐ 8 | 🐛 0 | 🌐 Scheme | 📅 2026-08-26
 * [aartaka/guix-config](https://github.com/aartaka/guix-config) ⭐ 8 | 🐛 1 | 🌐 Scheme | 📅 2024-10-24
 * [SunJukebox/guix-config](https://github.com/SunJukebox/guix-config) ⭐ 1 | 🐛 0 | 🌐 Emacs Lisp | 📅 2026-03-16
@@ -154,7 +154,7 @@ When you're stuck, it's super helpful to see what others are doing:
 
 ## Misc
 
-* [metacall/guix](https://github.com/metacall/guix) ⭐ 66 | 🐛 6 | 🌐 JavaScript | 📅 2026-05-04: Docker image for using Guix in a CI/CD environment.
+* [metacall/guix](https://github.com/metacall/guix) ⭐ 67 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-09: Docker image for using Guix in a CI/CD environment.
 * [guix-vm](https://github.com/palfrey/guix-vm) ⭐ 22 | 🐛 2 | 🌐 Ruby | 📅 2026-08-09: Scripts and support necessary to make a GuixSD Virtualbox image
 * [guix-shell-examples](https://github.com/nuthub/guix-shell-examples) ⭐ 21 | 🐛 0 | 📅 2026-01-05: Run software that is not available on Guix
 * [Distrowatch](https://distrowatch.com/table.php?distribution=guixsd)
@@ -195,4 +195,4 @@ Other awesome guix lists:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._

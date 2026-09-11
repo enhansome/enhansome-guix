@@ -42,7 +42,7 @@ Software
 * [flatwhatson/guix-channel](https://github.com/flatwhatson/guix-channel) ⭐ 107 | 🐛 0 | 🌐 Scheme | 📅 2023-01-02: flat's guix channel 💤
 * [giuliano108/guix-packages](https://github.com/giuliano108/guix-packages) ⭐ 62 | 🐛 7 | 🌐 Scheme | 📅 2026-04-03: Guix on WSL2, packages and notes
 * [sops-guix](https://github.com/fishinthecalculator/sops-guix) ⭐ 59 | 🐛 7 | 🌐 Scheme | 📅 2026-04-24: Secure secret management with Guix
-* [rosenthal](https://github.com/rakino/Rosenthal) ⭐ 46 | 🐛 1 | 🌐 Scheme | 📅 2026-08-26: Experiments
+* [rosenthal](https://github.com/rakino/Rosenthal) ⭐ 46 | 🐛 1 | 🌐 Scheme | 📅 2026-09-11: Experiments
 * [guix-rustup](https://github.com/declantsien/guix-rustup) ⭐ 31 | 🐛 4 | 🌐 Scheme | 📅 2026-02-17: Guix Rustup
 * [gocix](https://github.com/fishinthecalculator/gocix) ⭐ 28 | 🐛 8 | 🌐 Scheme | 📅 2026-06-20: Community managed library of Guix services
 * [bin-guix](https://github.com/ieugen/bin-guix) ⭐ 18 | 🐛 0 | 🌐 Scheme | 📅 2026-07-24: Binary packages for guix
@@ -97,7 +97,7 @@ If you are looking for a package index:
 
 ### Issue tracker
 
-* [pantherx](https://github.com/franzos/panther/issues) ⭐ 15 | 🐛 1 | 🌐 Scheme | 📅 2026-09-09
+* [pantherx](https://github.com/franzos/panther/issues) ⭐ 15 | 🐛 1 | 🌐 Scheme | 📅 2026-09-10
 * Guix itself:
   * [codeberg issues](https://codeberg.org/guix/guix/issues)
 * [nonguix](https://gitlab.com/nonguix/nonguix/-/work_items)
@@ -154,7 +154,7 @@ When you're stuck, it's super helpful to see what others are doing:
 
 ## Misc
 
-* [metacall/guix](https://github.com/metacall/guix) ⭐ 67 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-09: Docker image for using Guix in a CI/CD environment.
+* [metacall/guix](https://github.com/metacall/guix) ⭐ 67 | 🐛 5 | 🌐 JavaScript | 📅 2026-09-10: Docker image for using Guix in a CI/CD environment.
 * [guix-vm](https://github.com/palfrey/guix-vm) ⭐ 22 | 🐛 2 | 🌐 Ruby | 📅 2026-08-09: Scripts and support necessary to make a GuixSD Virtualbox image
 * [guix-shell-examples](https://github.com/nuthub/guix-shell-examples) ⭐ 21 | 🐛 0 | 📅 2026-01-05: Run software that is not available on Guix
 * [Distrowatch](https://distrowatch.com/table.php?distribution=guixsd)
@@ -195,4 +195,4 @@ Other awesome guix lists:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._

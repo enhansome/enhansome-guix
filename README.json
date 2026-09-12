@@ -153,29 +153,6 @@
         },
         {
           "node_type": "item",
-          "title": "rosenthal",
-          "description": "Experiments",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "[mirror] A certain Guix channel / 某 Guix 頻道",
-            "homepage": "https://codeberg.org/hako/rosenthal",
-            "id": 517639041,
-            "language": "Scheme",
-            "license": null,
-            "last_commit": "2026-09-11T11:02:36Z",
-            "open_issues": 1,
-            "owner": "rakino",
-            "repo": "Rosenthal",
-            "stars": 46,
-            "topics": [
-              "guix"
-            ]
-          },
-          "first_seen": "2026-08-28T18:36:49.323Z"
-        },
-        {
-          "node_type": "item",
           "title": "guix-rustup",
           "description": "Guix Rustup",
           "children": [],
@@ -423,6 +400,27 @@
         },
         {
           "node_type": "item",
+          "title": "guix-bioc",
+          "description": "The entire Bioconductor collection, generated like guix-cran.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Generated collection of Bioconductor packages for GNU Guix. ",
+            "homepage": null,
+            "id": 744226377,
+            "language": "Scheme",
+            "license": "GPL-3.0",
+            "last_commit": "2026-06-14T07:56:50Z",
+            "open_issues": 0,
+            "owner": "guix-science",
+            "repo": "guix-bioc",
+            "stars": 4,
+            "topics": []
+          },
+          "first_seen": "2026-09-12T10:40:19.123Z"
+        },
+        {
+          "node_type": "item",
           "title": "Jonabron",
           "description": "Jonabron Channel - provides osu!lazer, Vicinae, Discord, and more.",
           "children": [],
@@ -450,6 +448,27 @@
           "first_seen": "2026-08-28T18:36:49.323Z"
         },
         {
+          "node_type": "item",
+          "title": "guix-discord",
+          "description": "Discord, and some Discord related packages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Discord package for Guix",
+            "homepage": null,
+            "id": 1292683418,
+            "language": "Scheme",
+            "license": "GPL-3.0",
+            "last_commit": "2026-09-08T18:44:21Z",
+            "open_issues": 1,
+            "owner": "jack-faller",
+            "repo": "guix-discord",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-09-12T10:40:19.123Z"
+        },
+        {
           "children": [
             {
               "node_type": "item",
@@ -463,7 +482,7 @@
                 "id": 726610453,
                 "language": "Scheme",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-10T16:02:51Z",
+                "last_commit": "2026-09-12T06:18:44Z",
                 "open_issues": 1,
                 "owner": "franzos",
                 "repo": "panther",
@@ -739,27 +758,6 @@
             ]
           },
           "first_seen": "2026-08-28T18:36:49.323Z"
-        },
-        {
-          "node_type": "item",
-          "title": "guix-shell-examples",
-          "description": "Run software that is not available on Guix",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "This is a mirror of the Codeberg repository",
-            "homepage": "https://codeberg.org/nutcase/guix-shell-examples",
-            "id": 717363523,
-            "language": null,
-            "license": null,
-            "last_commit": "2026-01-05T13:29:14Z",
-            "open_issues": 0,
-            "owner": "nuthub",
-            "repo": "guix-shell-examples",
-            "stars": 21,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T18:36:49.323Z"
         }
       ],
       "title": "Misc"
@@ -822,7 +820,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T11:12:56.817Z",
+    "last_updated": "2026-09-12T10:40:19.123Z",
     "original_repository_info": {
       "archived": false,
       "description": "Docs, Channels, example configs and more - Guix is Awesome",
@@ -830,7 +828,7 @@
       "id": 733586403,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-07-26T20:44:51Z",
+      "last_commit": "2026-09-12T09:19:01Z",
       "open_issues": 1,
       "owner": "franzos",
       "repo": "awesome-guix",
@@ -843,7 +841,7 @@
         "packages"
       ]
     },
-    "original_repository_sha": "aa4f7fb802d3fa415153d3d43a6b2787ddc1dc13",
+    "original_repository_sha": "f4a2c642d46aadfa324e60657b5223a49d22196c",
     "enhanced_repository": "enhansome/enhansome-guix",
     "enhanced_repository_description": null,
     "title": "A collection of awesome guix-things with stars"

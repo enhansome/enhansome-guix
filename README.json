@@ -146,7 +146,7 @@
             "open_issues": 7,
             "owner": "fishinthecalculator",
             "repo": "sops-guix",
-            "stars": 59,
+            "stars": 60,
             "topics": []
           },
           "first_seen": "2026-08-28T18:36:49.323Z"
@@ -820,7 +820,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T10:40:19.123Z",
+    "last_updated": "2026-09-13T11:43:44.167Z",
     "original_repository_info": {
       "archived": false,
       "description": "Docs, Channels, example configs and more - Guix is Awesome",

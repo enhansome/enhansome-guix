@@ -209,7 +209,7 @@
             "open_issues": 0,
             "owner": "ieugen",
             "repo": "bin-guix",
-            "stars": 18,
+            "stars": 19,
             "topics": []
           },
           "first_seen": "2026-08-28T18:36:49.323Z"
@@ -247,7 +247,7 @@
             "id": 553458650,
             "language": "Scheme",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-16T04:17:15Z",
+            "last_commit": "2026-09-17T04:34:51Z",
             "open_issues": 0,
             "owner": "guix-science",
             "repo": "guix-cran",
@@ -723,8 +723,8 @@
             "id": 209222193,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T18:44:21Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-17T05:16:56Z",
+            "open_issues": 6,
             "owner": "metacall",
             "repo": "guix",
             "stars": 67,
@@ -820,7 +820,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T11:25:36.917Z",
+    "last_updated": "2026-09-17T11:34:38.098Z",
     "original_repository_info": {
       "archived": false,
       "description": "Docs, Channels, example configs and more - Guix is Awesome",

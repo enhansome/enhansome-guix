@@ -48,9 +48,9 @@ Software
 * [sops-guix](https://github.com/fishinthecalculator/sops-guix) ⭐ 60 | 🐛 7 | 🌐 Scheme | 📅 2026-04-24: Secure secret management with Guix
 * [guix-rustup](https://github.com/declantsien/guix-rustup) ⭐ 31 | 🐛 5 | 🌐 Scheme | 📅 2026-02-17: Guix Rustup
 * [gocix](https://github.com/fishinthecalculator/gocix) ⭐ 28 | 🐛 8 | 🌐 Scheme | 📅 2026-06-20: Community managed library of Guix services
-* [bin-guix](https://github.com/ieugen/bin-guix) ⭐ 18 | 🐛 0 | 🌐 Scheme | 📅 2026-07-24: Binary packages for guix
+* [bin-guix](https://github.com/ieugen/bin-guix) ⭐ 19 | 🐛 0 | 🌐 Scheme | 📅 2026-07-24: Binary packages for guix
 * [guix-tailscale](https://github.com/umanwizard/guix-tailscale) ⭐ 15 | 🐛 3 | 🌐 Scheme | 📅 2026-05-14: Providing tailscale, tailscaled, and tailscale-service-type
-* [guix-cran](https://github.com/guix-science/guix-cran) ⭐ 12 | 🐛 0 | 🌐 Scheme | 📅 2026-09-16: Contains all R packages not available in Guix yet.
+* [guix-cran](https://github.com/guix-science/guix-cran) ⭐ 12 | 🐛 0 | 🌐 Scheme | 📅 2026-09-17: Contains all R packages not available in Guix yet.
 * [gundroid](https://github.com/shegeley/gundroid) ⭐ 9 | 🐛 2 | 🌐 Scheme | 📅 2026-08-24: Android tools packages in Guix
 * [ROCKTAKEY/roquix](https://github.com/ROCKTAKEY/roquix) ⭐ 9 | 🐛 19 | 🌐 Scheme | 📅 2026-09-07: Roquix guix channel
 * [guix-cn](https://github.com/guixcn/guix-channel) ⭐ 8 | 🐛 1 | 🌐 Scheme | 📅 2025-10-11: Guix China 社区的 Guix 频道
@@ -165,7 +165,7 @@ When you're stuck, it's super helpful to see what others are doing:
 
 ## Misc
 
-* [metacall/guix](https://github.com/metacall/guix) ⭐ 67 | 🐛 5 | 🌐 JavaScript | 📅 2026-09-10: Docker image for using Guix in a CI/CD environment.
+* [metacall/guix](https://github.com/metacall/guix) ⭐ 67 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-17: Docker image for using Guix in a CI/CD environment.
 * [guix-vm](https://github.com/palfrey/guix-vm) ⭐ 22 | 🐛 2 | 🌐 Ruby | 📅 2026-08-09: Scripts and support necessary to make a GuixSD Virtualbox image
 * [Distrowatch](https://distrowatch.com/table.php?distribution=guixsd)
 * [flathub.org/setup](https://flathub.org/en/setup/GNU%20Guix): Flatpak on Guix
@@ -205,4 +205,4 @@ Other awesome guix lists:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._

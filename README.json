@@ -247,7 +247,7 @@
             "id": 553458650,
             "language": "Scheme",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-21T04:02:38Z",
+            "last_commit": "2026-09-22T05:03:32Z",
             "open_issues": 0,
             "owner": "guix-science",
             "repo": "guix-cran",
@@ -330,6 +330,30 @@
         },
         {
           "node_type": "item",
+          "title": "emacs-master",
+          "description": "Guix channel for the latest Emacs from the master branch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Guix channel for the latest Emacs from the master branch.",
+            "homepage": null,
+            "id": 917822994,
+            "language": "Emacs Lisp",
+            "license": "GPL-3.0",
+            "last_commit": "2026-09-21T04:06:35Z",
+            "open_issues": 0,
+            "owner": "gs-101",
+            "repo": "emacs-master",
+            "stars": 6,
+            "topics": [
+              "emacs",
+              "guix-channel"
+            ]
+          },
+          "first_seen": "2026-08-28T18:36:49.323Z"
+        },
+        {
+          "node_type": "item",
           "title": "guix-telegram-desktop",
           "description": "Latest version of telegram-desktop.",
           "children": [],
@@ -376,30 +400,6 @@
         },
         {
           "node_type": "item",
-          "title": "emacs-master",
-          "description": "Guix channel for the latest Emacs from the master branch.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Guix channel for the latest Emacs from the master branch.",
-            "homepage": null,
-            "id": 917822994,
-            "language": "Emacs Lisp",
-            "license": "GPL-3.0",
-            "last_commit": "2026-09-21T04:06:35Z",
-            "open_issues": 0,
-            "owner": "gs-101",
-            "repo": "emacs-master",
-            "stars": 5,
-            "topics": [
-              "emacs",
-              "guix-channel"
-            ]
-          },
-          "first_seen": "2026-08-28T18:36:49.323Z"
-        },
-        {
-          "node_type": "item",
           "title": "guix-bioc",
           "description": "The entire Bioconductor collection, generated like guix-cran.",
           "children": [],
@@ -410,7 +410,7 @@
             "id": 744226377,
             "language": "Scheme",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-20T08:10:47Z",
+            "last_commit": "2026-09-22T08:15:09Z",
             "open_issues": 0,
             "owner": "guix-science",
             "repo": "guix-bioc",
@@ -820,7 +820,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T12:41:18.149Z",
+    "last_updated": "2026-09-22T11:29:53.894Z",
     "original_repository_info": {
       "archived": false,
       "description": "Docs, Channels, example configs and more - Guix is Awesome",
@@ -832,7 +832,7 @@
       "open_issues": 1,
       "owner": "franzos",
       "repo": "awesome-guix",
-      "stars": 140,
+      "stars": 142,
       "topics": [
         "awesome-list",
         "guix",

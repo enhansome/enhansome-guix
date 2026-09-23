@@ -45,12 +45,12 @@ Software
 
 * [flatwhatson/guix-channel](https://github.com/flatwhatson/guix-channel) ⭐ 107 | 🐛 0 | 🌐 Scheme | 📅 2023-01-02: flat's guix channel 💤
 * [giuliano108/guix-packages](https://github.com/giuliano108/guix-packages) ⭐ 62 | 🐛 7 | 🌐 Scheme | 📅 2026-04-03: Guix on WSL2, packages and notes
-* [sops-guix](https://github.com/fishinthecalculator/sops-guix) ⭐ 60 | 🐛 9 | 🌐 Scheme | 📅 2026-04-24: Secure secret management with Guix
+* [sops-guix](https://github.com/fishinthecalculator/sops-guix) ⭐ 61 | 🐛 9 | 🌐 Scheme | 📅 2026-04-24: Secure secret management with Guix
 * [guix-rustup](https://github.com/declantsien/guix-rustup) ⭐ 31 | 🐛 5 | 🌐 Scheme | 📅 2026-02-17: Guix Rustup
 * [gocix](https://github.com/fishinthecalculator/gocix) ⭐ 28 | 🐛 8 | 🌐 Scheme | 📅 2026-06-20: Community managed library of Guix services
 * [bin-guix](https://github.com/ieugen/bin-guix) ⭐ 19 | 🐛 0 | 🌐 Scheme | 📅 2026-07-24: Binary packages for guix
 * [guix-tailscale](https://github.com/umanwizard/guix-tailscale) ⭐ 15 | 🐛 3 | 🌐 Scheme | 📅 2026-09-18: Providing tailscale, tailscaled, and tailscale-service-type
-* [guix-cran](https://github.com/guix-science/guix-cran) ⭐ 12 | 🐛 0 | 🌐 Scheme | 📅 2026-09-22: Contains all R packages not available in Guix yet.
+* [guix-cran](https://github.com/guix-science/guix-cran) ⭐ 12 | 🐛 0 | 🌐 Scheme | 📅 2026-09-23: Contains all R packages not available in Guix yet.
 * [gundroid](https://github.com/shegeley/gundroid) ⭐ 9 | 🐛 2 | 🌐 Scheme | 📅 2026-08-24: Android tools packages in Guix
 * [ROCKTAKEY/roquix](https://github.com/ROCKTAKEY/roquix) ⭐ 9 | 🐛 19 | 🌐 Scheme | 📅 2026-09-20: Roquix guix channel
 * [guix-cn](https://github.com/guixcn/guix-channel) ⭐ 8 | 🐛 1 | 🌐 Scheme | 📅 2025-10-11: Guix China 社区的 Guix 频道
@@ -109,7 +109,7 @@ If you are looking for a package index:
 
 ### Issue tracker
 
-* [pantherx](https://github.com/franzos/panther/issues) ⭐ 15 | 🐛 1 | 🌐 Scheme | 📅 2026-09-21
+* [pantherx](https://github.com/franzos/panther/issues) ⭐ 15 | 🐛 1 | 🌐 Scheme | 📅 2026-09-23
 * Guix itself:
   * [codeberg issues](https://codeberg.org/guix/guix/issues)
 * [nonguix](https://gitlab.com/nonguix/nonguix/-/work_items)
@@ -205,4 +205,4 @@ Other awesome guix lists:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._

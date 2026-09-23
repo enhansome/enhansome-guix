@@ -146,7 +146,7 @@
             "open_issues": 9,
             "owner": "fishinthecalculator",
             "repo": "sops-guix",
-            "stars": 60,
+            "stars": 61,
             "topics": []
           },
           "first_seen": "2026-08-28T18:36:49.323Z"
@@ -247,7 +247,7 @@
             "id": 553458650,
             "language": "Scheme",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-22T05:03:32Z",
+            "last_commit": "2026-09-23T04:36:36Z",
             "open_issues": 0,
             "owner": "guix-science",
             "repo": "guix-cran",
@@ -482,7 +482,7 @@
                 "id": 726610453,
                 "language": "Scheme",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-21T07:26:06Z",
+                "last_commit": "2026-09-23T08:40:34Z",
                 "open_issues": 1,
                 "owner": "franzos",
                 "repo": "panther",
@@ -820,7 +820,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T11:29:53.894Z",
+    "last_updated": "2026-09-23T11:27:58.415Z",
     "original_repository_info": {
       "archived": false,
       "description": "Docs, Channels, example configs and more - Guix is Awesome",

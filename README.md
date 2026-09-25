@@ -57,7 +57,7 @@ Software
 * [emacs-master](https://github.com/gs-101/emacs-master) ⭐ 6 | 🐛 0 | 🌐 Emacs Lisp | 📅 2026-09-21: Guix channel for the latest Emacs from the master branch.
 * [guix-telegram-desktop](https://github.com/johnlepikhin/guix-telegram-desktop) ⭐ 6 | 🐛 1 | 🌐 Scheme | 📅 2026-08-29: Latest version of telegram-desktop.
 * [guix-wigust](https://github.com/kitnil/guix-wigust) ⭐ 5 | 🐛 0 | 🌐 Scheme | 📅 2024-01-08: Extra packages for Guix
-* [guix-bioc](https://github.com/guix-science/guix-bioc) ⭐ 4 | 🐛 0 | 🌐 Scheme | 📅 2026-09-22: The entire Bioconductor collection, generated like guix-cran.
+* [guix-bioc](https://github.com/guix-science/guix-bioc) ⭐ 4 | 🐛 0 | 🌐 Scheme | 📅 2026-09-25: The entire Bioconductor collection, generated like guix-cran.
 * [Jonabron](https://github.com/librepup/jonabron) ⭐ 1 | 🐛 0 | 🌐 Shell | 📅 2026-08-06: Jonabron Channel - provides osu!lazer, Vicinae, Discord, and more.
 * [guix-discord](https://github.com/jack-faller/guix-discord) ⭐ 1 | 🐛 1 | 🌐 Scheme | 📅 2026-09-23: Discord, and some Discord related packages.
 * Primary channel:
@@ -205,4 +205,4 @@ Other awesome guix lists:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._

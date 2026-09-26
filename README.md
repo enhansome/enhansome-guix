@@ -50,14 +50,14 @@ Software
 * [gocix](https://github.com/fishinthecalculator/gocix) ⭐ 28 | 🐛 8 | 🌐 Scheme | 📅 2026-06-20: Community managed library of Guix services
 * [bin-guix](https://github.com/ieugen/bin-guix) ⭐ 19 | 🐛 0 | 🌐 Scheme | 📅 2026-07-24: Binary packages for guix
 * [guix-tailscale](https://github.com/umanwizard/guix-tailscale) ⭐ 15 | 🐛 3 | 🌐 Scheme | 📅 2026-09-18: Providing tailscale, tailscaled, and tailscale-service-type
-* [guix-cran](https://github.com/guix-science/guix-cran) ⭐ 12 | 🐛 0 | 🌐 Scheme | 📅 2026-09-24: Contains all R packages not available in Guix yet.
+* [guix-cran](https://github.com/guix-science/guix-cran) ⭐ 12 | 🐛 0 | 🌐 Scheme | 📅 2026-09-26: Contains all R packages not available in Guix yet.
 * [gundroid](https://github.com/shegeley/gundroid) ⭐ 9 | 🐛 2 | 🌐 Scheme | 📅 2026-08-24: Android tools packages in Guix
-* [ROCKTAKEY/roquix](https://github.com/ROCKTAKEY/roquix) ⭐ 9 | 🐛 19 | 🌐 Scheme | 📅 2026-09-20: Roquix guix channel
+* [ROCKTAKEY/roquix](https://github.com/ROCKTAKEY/roquix) ⭐ 9 | 🐛 19 | 🌐 Scheme | 📅 2026-09-25: Roquix guix channel
 * [guix-cn](https://github.com/guixcn/guix-channel) ⭐ 8 | 🐛 1 | 🌐 Scheme | 📅 2025-10-11: Guix China 社区的 Guix 频道
 * [emacs-master](https://github.com/gs-101/emacs-master) ⭐ 6 | 🐛 0 | 🌐 Emacs Lisp | 📅 2026-09-21: Guix channel for the latest Emacs from the master branch.
 * [guix-telegram-desktop](https://github.com/johnlepikhin/guix-telegram-desktop) ⭐ 6 | 🐛 1 | 🌐 Scheme | 📅 2026-08-29: Latest version of telegram-desktop.
 * [guix-wigust](https://github.com/kitnil/guix-wigust) ⭐ 5 | 🐛 0 | 🌐 Scheme | 📅 2024-01-08: Extra packages for Guix
-* [guix-bioc](https://github.com/guix-science/guix-bioc) ⭐ 4 | 🐛 0 | 🌐 Scheme | 📅 2026-09-25: The entire Bioconductor collection, generated like guix-cran.
+* [guix-bioc](https://github.com/guix-science/guix-bioc) ⭐ 4 | 🐛 0 | 🌐 Scheme | 📅 2026-09-26: The entire Bioconductor collection, generated like guix-cran.
 * [Jonabron](https://github.com/librepup/jonabron) ⭐ 1 | 🐛 0 | 🌐 Shell | 📅 2026-08-06: Jonabron Channel - provides osu!lazer, Vicinae, Discord, and more.
 * [guix-discord](https://github.com/jack-faller/guix-discord) ⭐ 1 | 🐛 1 | 🌐 Scheme | 📅 2026-09-23: Discord, and some Discord related packages.
 * Primary channel:
@@ -109,7 +109,7 @@ If you are looking for a package index:
 
 ### Issue tracker
 
-* [pantherx](https://github.com/franzos/panther/issues) ⭐ 15 | 🐛 1 | 🌐 Scheme | 📅 2026-09-24
+* [pantherx](https://github.com/franzos/panther/issues) ⭐ 15 | 🐛 1 | 🌐 Scheme | 📅 2026-09-25
 * Guix itself:
   * [codeberg issues](https://codeberg.org/guix/guix/issues)
 * [nonguix](https://gitlab.com/nonguix/nonguix/-/work_items)
@@ -205,4 +205,4 @@ Other awesome guix lists:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._

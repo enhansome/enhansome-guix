@@ -294,7 +294,7 @@
             "id": 481501653,
             "language": "Scheme",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-29T15:56:05Z",
+            "last_commit": "2026-10-02T10:21:26Z",
             "open_issues": 19,
             "owner": "ROCKTAKEY",
             "repo": "roquix",
@@ -410,7 +410,7 @@
             "id": 744226377,
             "language": "Scheme",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-30T08:17:27Z",
+            "last_commit": "2026-10-02T08:31:41Z",
             "open_issues": 0,
             "owner": "guix-science",
             "repo": "guix-bioc",
@@ -482,7 +482,7 @@
                 "id": 726610453,
                 "language": "Scheme",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-30T01:52:19Z",
+                "last_commit": "2026-10-01T16:47:37Z",
                 "open_issues": 1,
                 "owner": "franzos",
                 "repo": "panther",
@@ -820,7 +820,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T13:04:33.229Z",
+    "last_updated": "2026-10-02T12:25:23.244Z",
     "original_repository_info": {
       "archived": false,
       "description": "Docs, Channels, example configs and more - Guix is Awesome",

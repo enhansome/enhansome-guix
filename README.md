@@ -50,7 +50,7 @@ Software
 * [gocix](https://github.com/fishinthecalculator/gocix) ⭐ 28 | 🐛 8 | 🌐 Scheme | 📅 2026-06-20: Community managed library of Guix services
 * [bin-guix](https://github.com/ieugen/bin-guix) ⭐ 19 | 🐛 0 | 🌐 Scheme | 📅 2026-07-24: Binary packages for guix
 * [guix-tailscale](https://github.com/umanwizard/guix-tailscale) ⭐ 15 | 🐛 3 | 🌐 Scheme | 📅 2026-09-18: Providing tailscale, tailscaled, and tailscale-service-type
-* [guix-cran](https://github.com/guix-science/guix-cran) ⭐ 12 | 🐛 0 | 🌐 Scheme | 📅 2026-10-01: Contains all R packages not available in Guix yet.
+* [guix-cran](https://github.com/guix-science/guix-cran) ⭐ 12 | 🐛 0 | 🌐 Scheme | 📅 2026-10-03: Contains all R packages not available in Guix yet.
 * [gundroid](https://github.com/shegeley/gundroid) ⭐ 9 | 🐛 2 | 🌐 Scheme | 📅 2026-08-24: Android tools packages in Guix
 * [ROCKTAKEY/roquix](https://github.com/ROCKTAKEY/roquix) ⭐ 9 | 🐛 19 | 🌐 Scheme | 📅 2026-10-02: Roquix guix channel
 * [guix-cn](https://github.com/guixcn/guix-channel) ⭐ 8 | 🐛 1 | 🌐 Scheme | 📅 2025-10-11: Guix China 社区的 Guix 频道
@@ -146,7 +146,7 @@ When you're stuck, it's super helpful to see what others are doing:
 * [podiki/dot.me/tree/master/guix](https://github.com/podiki/dot.me/tree/master/guix/.config/guix) ⭐ 55 | 🐛 0 | 🌐 Scheme | 📅 2026-08-10
 * [hiecaq/guix-config](https://github.com/hiecaq/guix-config) ⭐ 41 | 🐛 0 | 📅 2026-09-06
 * [dustinlyons/guix-config](https://github.com/dustinlyons/guix-config) ⭐ 23 | 🐛 0 | 🌐 Makefile | 📅 2023-12-11 💤
-* [aurtzy/guix-config](https://github.com/aurtzy/guix-config) ⭐ 19 | 🐛 0 | 🌐 Scheme | 📅 2026-09-10
+* [aurtzy/guix-config](https://github.com/aurtzy/guix-config) ⭐ 19 | 🐛 0 | 🌐 Scheme | 📅 2026-10-02
 * [franzos/dotfiles](https://github.com/franzos/dotfiles) ⭐ 8 | 🐛 0 | 🌐 Scheme | 📅 2026-08-26
 * [aartaka/guix-config](https://github.com/aartaka/guix-config) ⭐ 8 | 🐛 1 | 🌐 Scheme | 📅 2024-10-24
 * [SunJukebox/guix-config](https://github.com/SunJukebox/guix-config) ⭐ 1 | 🐛 0 | 🌐 Emacs Lisp | 📅 2026-03-16
@@ -205,4 +205,4 @@ Other awesome guix lists:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._

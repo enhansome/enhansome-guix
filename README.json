@@ -247,7 +247,7 @@
             "id": 553458650,
             "language": "Scheme",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-01T04:03:40Z",
+            "last_commit": "2026-10-03T03:59:09Z",
             "open_issues": 0,
             "owner": "guix-science",
             "repo": "guix-cran",
@@ -294,7 +294,7 @@
             "id": 481501653,
             "language": "Scheme",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T10:21:26Z",
+            "last_commit": "2026-10-02T18:08:24Z",
             "open_issues": 19,
             "owner": "ROCKTAKEY",
             "repo": "roquix",
@@ -473,7 +473,7 @@
             {
               "node_type": "item",
               "title": "pantherx",
-              "description": null,
+              "description": "franzos/panther",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -511,7 +511,7 @@
         {
           "node_type": "item",
           "title": "alezost/guix-config",
-          "description": "💤",
+          "description": "alezost/guix-config",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -532,7 +532,7 @@
         {
           "node_type": "item",
           "title": "podiki/dot.me/tree/master/guix",
-          "description": null,
+          "description": "podiki/dot.me",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -561,7 +561,7 @@
         {
           "node_type": "item",
           "title": "hiecaq/guix-config",
-          "description": null,
+          "description": "hiecaq/guix-config",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -588,7 +588,7 @@
         {
           "node_type": "item",
           "title": "dustinlyons/guix-config",
-          "description": "💤",
+          "description": "dustinlyons/guix-config",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -609,7 +609,7 @@
         {
           "node_type": "item",
           "title": "aurtzy/guix-config",
-          "description": null,
+          "description": "aurtzy/guix-config",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -618,7 +618,7 @@
             "id": 657887337,
             "language": "Scheme",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-10T02:29:12Z",
+            "last_commit": "2026-10-02T17:10:26Z",
             "open_issues": 0,
             "owner": "aurtzy",
             "repo": "guix-config",
@@ -636,7 +636,7 @@
         {
           "node_type": "item",
           "title": "franzos/dotfiles",
-          "description": null,
+          "description": "franzos/dotfiles",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -662,7 +662,7 @@
         {
           "node_type": "item",
           "title": "aartaka/guix-config",
-          "description": null,
+          "description": "aartaka/guix-config",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -687,7 +687,7 @@
         {
           "node_type": "item",
           "title": "SunJukebox/guix-config",
-          "description": null,
+          "description": "SunJukebox/guix-config",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -768,7 +768,7 @@
         {
           "node_type": "item",
           "title": "techenthusiastsorg/awesome-guix",
-          "description": "💤",
+          "description": "techenthusiastsorg/awesome-guix",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -797,7 +797,7 @@
         {
           "node_type": "item",
           "title": "tieong/awesome-guix",
-          "description": null,
+          "description": "tieong/awesome-guix",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -820,7 +820,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T12:25:23.244Z",
+    "last_updated": "2026-10-03T04:49:42.548Z",
     "original_repository_info": {
       "archived": false,
       "description": "Docs, Channels, example configs and more - Guix is Awesome",

@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "guix-install",
-          "description": "Guix System installer — libre, nonguix, panther, or enterprise",
+          "description": "Guix System installer: libre, nonguix, panther, or enterprise.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -34,7 +34,7 @@
         {
           "node_type": "item",
           "title": "guix-rs",
-          "description": "Unofficial GUI for day-to-day Guix usage",
+          "description": "Unofficial GUI for day-to-day Guix usage.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -60,7 +60,7 @@
         {
           "node_type": "item",
           "title": "esquema",
-          "description": "Rootless, daemon-free container runtime written in Scheme, integrating with Guix and Shepherd",
+          "description": "Rootless, daemon-free container runtime written in Scheme, integrating with Guix and Shepherd.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -82,33 +82,12 @@
       "title": "Tools"
     },
     {
-      "description": "Software\nIf you are looking for a package index:",
+      "description": null,
       "items": [
         {
           "node_type": "item",
-          "title": "flatwhatson/guix-channel",
-          "description": "flat's guix channel 💤",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Package definitions for GNU Guix",
-            "homepage": null,
-            "id": 261947600,
-            "language": "Scheme",
-            "license": "GPL-3.0",
-            "last_commit": "2023-01-02T05:45:44Z",
-            "open_issues": 0,
-            "owner": "flatwhatson",
-            "repo": "guix-channel",
-            "stars": 107,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T18:36:49.323Z"
-        },
-        {
-          "node_type": "item",
           "title": "giuliano108/guix-packages",
-          "description": "Guix on WSL2, packages and notes",
+          "description": "Guix on WSL2, packages and notes.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -133,7 +112,7 @@
         {
           "node_type": "item",
           "title": "sops-guix",
-          "description": "Secure secret management with Guix",
+          "description": "Secure secret management with Guix.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -154,7 +133,7 @@
         {
           "node_type": "item",
           "title": "guix-rustup",
-          "description": "Guix Rustup",
+          "description": "Rustup toolchains on Guix.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -175,7 +154,7 @@
         {
           "node_type": "item",
           "title": "gocix",
-          "description": "Community managed library of Guix services",
+          "description": "Community managed library of Guix services.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -196,7 +175,7 @@
         {
           "node_type": "item",
           "title": "bin-guix",
-          "description": "Binary packages for guix",
+          "description": "Binary packages.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -217,7 +196,7 @@
         {
           "node_type": "item",
           "title": "guix-tailscale",
-          "description": "Providing tailscale, tailscaled, and tailscale-service-type",
+          "description": "Provides tailscale, tailscaled, and tailscale-service-type.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -238,7 +217,7 @@
         {
           "node_type": "item",
           "title": "guix-cran",
-          "description": "Contains all R packages not available in Guix yet.",
+          "description": "All R packages not available in Guix yet.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -264,7 +243,7 @@
         {
           "node_type": "item",
           "title": "gundroid",
-          "description": "Android tools packages in Guix",
+          "description": "Android tools packages.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -285,7 +264,7 @@
         {
           "node_type": "item",
           "title": "ROCKTAKEY/roquix",
-          "description": "Roquix guix channel",
+          "description": "Roquix Guix channel.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -294,7 +273,7 @@
             "id": 481501653,
             "language": "Scheme",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T18:08:24Z",
+            "last_commit": "2026-10-03T08:55:47Z",
             "open_issues": 19,
             "owner": "ROCKTAKEY",
             "repo": "roquix",
@@ -310,7 +289,7 @@
         {
           "node_type": "item",
           "title": "guix-cn",
-          "description": "Guix China 社区的 Guix 频道",
+          "description": "Channel of the Guix China community.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -331,7 +310,7 @@
         {
           "node_type": "item",
           "title": "emacs-master",
-          "description": "Guix channel for the latest Emacs from the master branch.",
+          "description": "The latest Emacs from the master branch.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -376,7 +355,7 @@
         {
           "node_type": "item",
           "title": "guix-wigust",
-          "description": "Extra packages for Guix",
+          "description": "Extra packages.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -422,7 +401,7 @@
         {
           "node_type": "item",
           "title": "Jonabron",
-          "description": "Jonabron Channel - provides osu!lazer, Vicinae, Discord, and more.",
+          "description": "Provides osu!lazer, Vicinae, Discord, and more.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -473,7 +452,7 @@
             {
               "node_type": "item",
               "title": "pantherx",
-              "description": "franzos/panther",
+              "description": "Issues for the PantherX channel.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -500,39 +479,18 @@
           ],
           "description": null,
           "node_type": "group",
-          "title": "Issue tracker"
+          "title": "Issue Trackers"
         }
       ],
       "title": "Channels"
     },
     {
-      "description": "When you're stuck, it's super helpful to see what others are doing:",
+      "description": "When you're stuck, it's super helpful to see what others are doing.",
       "items": [
         {
           "node_type": "item",
-          "title": "alezost/guix-config",
-          "description": "alezost/guix-config",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "My config for GuixSD",
-            "homepage": null,
-            "id": 44321862,
-            "language": "Scheme",
-            "license": "GPL-3.0",
-            "last_commit": "2021-01-04T17:14:36Z",
-            "open_issues": 0,
-            "owner": "alezost",
-            "repo": "guix-config",
-            "stars": 75,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T18:36:49.323Z"
-        },
-        {
-          "node_type": "item",
-          "title": "podiki/dot.me/tree/master/guix",
-          "description": "podiki/dot.me",
+          "title": "podiki/dot.me",
+          "description": "Guix configuration in literate dotfiles, tangled from Org and linked with GNU Stow.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -561,7 +519,7 @@
         {
           "node_type": "item",
           "title": "hiecaq/guix-config",
-          "description": "hiecaq/guix-config",
+          "description": "Literate Org configuration covering system, home and channels.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -587,29 +545,8 @@
         },
         {
           "node_type": "item",
-          "title": "dustinlyons/guix-config",
-          "description": "dustinlyons/guix-config",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Literate configuration for Guix Linux ⛰️",
-            "homepage": null,
-            "id": 414310975,
-            "language": "Makefile",
-            "license": null,
-            "last_commit": "2023-12-11T14:53:54Z",
-            "open_issues": 0,
-            "owner": "dustinlyons",
-            "repo": "guix-config",
-            "stars": 23,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T18:36:49.323Z"
-        },
-        {
-          "node_type": "item",
           "title": "aurtzy/guix-config",
-          "description": "aurtzy/guix-config",
+          "description": "System and home configuration modularized with \"mods\", an extension to Guix records.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -636,7 +573,7 @@
         {
           "node_type": "item",
           "title": "franzos/dotfiles",
-          "description": "franzos/dotfiles",
+          "description": "Two-host Guix System configuration with a shared module and system hardening.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -662,7 +599,7 @@
         {
           "node_type": "item",
           "title": "aartaka/guix-config",
-          "description": "aartaka/guix-config",
+          "description": "System configuration and a large development manifest.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -681,27 +618,6 @@
               "guix",
               "guixsd"
             ]
-          },
-          "first_seen": "2026-08-28T18:36:49.323Z"
-        },
-        {
-          "node_type": "item",
-          "title": "SunJukebox/guix-config",
-          "description": "SunJukebox/guix-config",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "My GNU Guix configuration files and associated dotfiles.",
-            "homepage": null,
-            "id": 861417837,
-            "language": "Emacs Lisp",
-            "license": null,
-            "last_commit": "2026-03-16T04:16:39Z",
-            "open_issues": 0,
-            "owner": "SunJukebox",
-            "repo": "guix-config",
-            "stars": 1,
-            "topics": []
           },
           "first_seen": "2026-08-28T18:36:49.323Z"
         }
@@ -735,7 +651,7 @@
         {
           "node_type": "item",
           "title": "guix-vm",
-          "description": "Scripts and support necessary to make a GuixSD Virtualbox image",
+          "description": "Scripts and support necessary to make a GuixSD VirtualBox image.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -761,66 +677,10 @@
         }
       ],
       "title": "Misc"
-    },
-    {
-      "description": "Install almost anywhere: Guix Binary Installation\nOther awesome guix lists:",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "techenthusiastsorg/awesome-guix",
-          "description": "techenthusiastsorg/awesome-guix",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Awesome list of resources about GNU Guix",
-            "homepage": null,
-            "id": 334424454,
-            "language": null,
-            "license": null,
-            "last_commit": "2021-04-24T06:48:35Z",
-            "open_issues": 0,
-            "owner": "techenthusiastsorg",
-            "repo": "awesome-guix",
-            "stars": 71,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-lists",
-              "bookmarks",
-              "gnu",
-              "guix",
-              "guixsd"
-            ]
-          },
-          "first_seen": "2026-08-28T18:36:49.323Z"
-        },
-        {
-          "node_type": "item",
-          "title": "tieong/awesome-guix",
-          "description": "tieong/awesome-guix",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Awesome list for GNU Guix",
-            "homepage": null,
-            "id": 953448014,
-            "language": null,
-            "license": null,
-            "last_commit": "2025-06-19T21:53:05Z",
-            "open_issues": 0,
-            "owner": "tieong",
-            "repo": "awesome-guix",
-            "stars": 16,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T18:36:49.323Z"
-        }
-      ],
-      "title": "Guix on other Distros"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:49:42.548Z",
+    "last_updated": "2026-10-03T11:34:31.177Z",
     "original_repository_info": {
       "archived": false,
       "description": "Docs, Channels, example configs and more - Guix is Awesome",
@@ -828,12 +688,13 @@
       "id": 733586403,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-09-12T09:19:01Z",
+      "last_commit": "2026-10-03T11:22:32Z",
       "open_issues": 1,
       "owner": "franzos",
       "repo": "awesome-guix",
       "stars": 143,
       "topics": [
+        "awesome",
         "awesome-list",
         "guix",
         "guix-channel",
@@ -841,9 +702,9 @@
         "packages"
       ]
     },
-    "original_repository_sha": "f4a2c642d46aadfa324e60657b5223a49d22196c",
+    "original_repository_sha": "5d23f636ee8fd4e1f9607e0aed5f4ce5b72f0d93",
     "enhanced_repository": "enhansome/enhansome-guix",
     "enhanced_repository_description": null,
-    "title": "A collection of awesome guix-things with stars"
+    "title": "Awesome Guix with stars"
   }
 }

@@ -226,7 +226,7 @@
             "id": 553458650,
             "language": "Scheme",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-04T05:23:21Z",
+            "last_commit": "2026-10-05T05:04:54Z",
             "open_issues": 0,
             "owner": "guix-science",
             "repo": "guix-cran",
@@ -273,7 +273,7 @@
             "id": 481501653,
             "language": "Scheme",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-04T09:56:04Z",
+            "last_commit": "2026-10-04T16:50:32Z",
             "open_issues": 19,
             "owner": "ROCKTAKEY",
             "repo": "roquix",
@@ -319,7 +319,7 @@
             "id": 917822994,
             "language": "Emacs Lisp",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-28T04:31:24Z",
+            "last_commit": "2026-10-05T04:49:22Z",
             "open_issues": 0,
             "owner": "gs-101",
             "repo": "emacs-master",
@@ -680,7 +680,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T12:15:51.295Z",
+    "last_updated": "2026-10-05T14:27:48.321Z",
     "original_repository_info": {
       "archived": false,
       "description": "Docs, Channels, example configs and more - Guix is Awesome",

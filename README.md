@@ -69,7 +69,7 @@
 * [guix-wigust](https://github.com/kitnil/guix-wigust) ⭐ 5 | 🐛 0 | 🌐 Scheme | 📅 2024-01-08 - Extra packages.
 * [guix-bioc](https://github.com/guix-science/guix-bioc) ⭐ 4 | 🐛 0 | 🌐 Scheme | 📅 2026-10-02 - The entire Bioconductor collection, generated like guix-cran.
 * [Jonabron](https://github.com/librepup/jonabron) ⭐ 1 | 🐛 0 | 🌐 Shell | 📅 2026-08-06 - Provides osu!lazer, Vicinae, Discord, and more.
-* [guix-discord](https://github.com/jack-faller/guix-discord) ⭐ 1 | 🐛 1 | 🌐 Scheme | 📅 2026-09-29 - Discord, and some Discord related packages.
+* [guix-discord](https://github.com/jack-faller/guix-discord) ⭐ 1 | 🐛 1 | 🌐 Scheme | 📅 2026-10-06 - Discord, and some Discord related packages.
 * [guix](https://codeberg.org/guix/guix) - The primary channel. Legacy repository on [GNU Savannah](https://git.savannah.gnu.org/cgit/guix.git).
 * [nonguix](https://gitlab.com/nonguix/nonguix) - Packages that can't be included upstream.
 * [pantherx](https://codeberg.org/gofranz/panther) - System and packages for PantherX.

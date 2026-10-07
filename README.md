@@ -113,7 +113,7 @@
 
 ### Issue Trackers
 
-* [pantherx](https://github.com/franzos/panther/issues) ⭐ 15 | 🐛 1 | 🌐 Scheme | 📅 2026-10-06 - Issues for the PantherX channel.
+* [pantherx](https://github.com/franzos/panther/issues) ⭐ 15 | 🐛 1 | 🌐 Scheme | 📅 2026-10-07 - Issues for the PantherX channel.
 * [guix](https://codeberg.org/guix/guix/issues) - Issues for Guix itself.
 * [nonguix](https://gitlab.com/nonguix/nonguix/-/work_items) - Issues for the nonguix channel.
 
@@ -195,4 +195,4 @@ Unmaintained and archived entries, still useful as references, are listed in [un
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._

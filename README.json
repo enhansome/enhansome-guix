@@ -226,7 +226,7 @@
             "id": 553458650,
             "language": "Scheme",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-06T04:56:38Z",
+            "last_commit": "2026-10-08T08:23:37Z",
             "open_issues": 0,
             "owner": "guix-science",
             "repo": "guix-cran",
@@ -273,7 +273,7 @@
             "id": 481501653,
             "language": "Scheme",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-05T16:30:01Z",
+            "last_commit": "2026-10-07T15:53:15Z",
             "open_issues": 19,
             "owner": "ROCKTAKEY",
             "repo": "roquix",
@@ -389,7 +389,7 @@
             "id": 744226377,
             "language": "Scheme",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T08:31:41Z",
+            "last_commit": "2026-10-08T11:51:49Z",
             "open_issues": 0,
             "owner": "guix-science",
             "repo": "guix-bioc",
@@ -465,7 +465,7 @@
                 "open_issues": 1,
                 "owner": "franzos",
                 "repo": "panther",
-                "stars": 15,
+                "stars": 16,
                 "topics": [
                   "guix",
                   "guix-channel",
@@ -586,7 +586,7 @@
             "open_issues": 0,
             "owner": "franzos",
             "repo": "dotfiles",
-            "stars": 8,
+            "stars": 9,
             "topics": [
               "dotfiles",
               "guix",
@@ -680,7 +680,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T13:14:01.963Z",
+    "last_updated": "2026-10-08T13:20:31.635Z",
     "original_repository_info": {
       "archived": false,
       "description": "Docs, Channels, example configs and more - Guix is Awesome",

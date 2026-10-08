@@ -60,14 +60,14 @@
 * [gocix](https://github.com/fishinthecalculator/gocix) ⭐ 28 | 🐛 8 | 🌐 Scheme | 📅 2026-06-20 - Community managed library of Guix services.
 * [bin-guix](https://github.com/ieugen/bin-guix) ⭐ 19 | 🐛 0 | 🌐 Scheme | 📅 2026-07-24 - Binary packages.
 * [guix-tailscale](https://github.com/umanwizard/guix-tailscale) ⭐ 15 | 🐛 3 | 🌐 Scheme | 📅 2026-09-18 - Provides tailscale, tailscaled, and tailscale-service-type.
-* [guix-cran](https://github.com/guix-science/guix-cran) ⭐ 12 | 🐛 0 | 🌐 Scheme | 📅 2026-10-06 - All R packages not available in Guix yet.
+* [guix-cran](https://github.com/guix-science/guix-cran) ⭐ 12 | 🐛 0 | 🌐 Scheme | 📅 2026-10-08 - All R packages not available in Guix yet.
 * [gundroid](https://github.com/shegeley/gundroid) ⭐ 9 | 🐛 2 | 🌐 Scheme | 📅 2026-08-24 - Android tools packages.
-* [ROCKTAKEY/roquix](https://github.com/ROCKTAKEY/roquix) ⭐ 9 | 🐛 19 | 🌐 Scheme | 📅 2026-10-05 - Roquix Guix channel.
+* [ROCKTAKEY/roquix](https://github.com/ROCKTAKEY/roquix) ⭐ 9 | 🐛 19 | 🌐 Scheme | 📅 2026-10-07 - Roquix Guix channel.
 * [guix-cn](https://github.com/guixcn/guix-channel) ⭐ 8 | 🐛 1 | 🌐 Scheme | 📅 2025-10-11 - Channel of the Guix China community.
 * [emacs-master](https://github.com/gs-101/emacs-master) ⭐ 6 | 🐛 0 | 🌐 Emacs Lisp | 📅 2026-10-05 - The latest Emacs from the master branch.
 * [guix-telegram-desktop](https://github.com/johnlepikhin/guix-telegram-desktop) ⭐ 6 | 🐛 1 | 🌐 Scheme | 📅 2026-08-29 - Latest version of telegram-desktop.
 * [guix-wigust](https://github.com/kitnil/guix-wigust) ⭐ 5 | 🐛 0 | 🌐 Scheme | 📅 2024-01-08 - Extra packages.
-* [guix-bioc](https://github.com/guix-science/guix-bioc) ⭐ 4 | 🐛 0 | 🌐 Scheme | 📅 2026-10-02 - The entire Bioconductor collection, generated like guix-cran.
+* [guix-bioc](https://github.com/guix-science/guix-bioc) ⭐ 4 | 🐛 0 | 🌐 Scheme | 📅 2026-10-08 - The entire Bioconductor collection, generated like guix-cran.
 * [Jonabron](https://github.com/librepup/jonabron) ⭐ 1 | 🐛 0 | 🌐 Shell | 📅 2026-08-06 - Provides osu!lazer, Vicinae, Discord, and more.
 * [guix-discord](https://github.com/jack-faller/guix-discord) ⭐ 1 | 🐛 1 | 🌐 Scheme | 📅 2026-10-06 - Discord, and some Discord related packages.
 * [guix](https://codeberg.org/guix/guix) - The primary channel. Legacy repository on [GNU Savannah](https://git.savannah.gnu.org/cgit/guix.git).
@@ -113,7 +113,7 @@
 
 ### Issue Trackers
 
-* [pantherx](https://github.com/franzos/panther/issues) ⭐ 15 | 🐛 1 | 🌐 Scheme | 📅 2026-10-07 - Issues for the PantherX channel.
+* [pantherx](https://github.com/franzos/panther/issues) ⭐ 16 | 🐛 1 | 🌐 Scheme | 📅 2026-10-07 - Issues for the PantherX channel.
 * [guix](https://codeberg.org/guix/guix/issues) - Issues for Guix itself.
 * [nonguix](https://gitlab.com/nonguix/nonguix/-/work_items) - Issues for the nonguix channel.
 
@@ -148,7 +148,7 @@ When you're stuck, it's super helpful to see what others are doing.
 * [podiki/dot.me](https://github.com/podiki/dot.me/tree/master/guix/.config/guix) ⭐ 55 | 🐛 0 | 🌐 Scheme | 📅 2026-08-10 - Guix configuration in literate dotfiles, tangled from Org and linked with GNU Stow.
 * [hiecaq/guix-config](https://github.com/hiecaq/guix-config) ⭐ 41 | 🐛 0 | 📅 2026-09-06 - Literate Org configuration covering system, home and channels.
 * [aurtzy/guix-config](https://github.com/aurtzy/guix-config) ⭐ 20 | 🐛 0 | 🌐 Scheme | 📅 2026-10-02 - System and home configuration modularized with "mods", an extension to Guix records.
-* [franzos/dotfiles](https://github.com/franzos/dotfiles) ⭐ 8 | 🐛 0 | 🌐 Scheme | 📅 2026-08-26 - Two-host Guix System configuration with a shared module and system hardening.
+* [franzos/dotfiles](https://github.com/franzos/dotfiles) ⭐ 9 | 🐛 0 | 🌐 Scheme | 📅 2026-08-26 - Two-host Guix System configuration with a shared module and system hardening.
 * [aartaka/guix-config](https://github.com/aartaka/guix-config) ⭐ 8 | 🐛 1 | 🌐 Scheme | 📅 2024-10-24 - System configuration and a large development manifest.
 * [tyreunom/system-configuration](https://framagit.org/tyreunom/system-configuration) - Personal system configuration.
 * [anemofilia/zero](https://codeberg.org/anemofilia/zero) - Modular system and home environments that keep desktop concerns out of the operating system.
@@ -195,4 +195,4 @@ Unmaintained and archived entries, still useful as references, are listed in [un
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._

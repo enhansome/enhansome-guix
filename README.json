@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "franzos",
             "repo": "guix-install",
-            "stars": 13,
+            "stars": 14,
             "topics": [
               "guix",
               "guix-configuration",
@@ -226,7 +226,7 @@
             "id": 553458650,
             "language": "Scheme",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-08T08:23:37Z",
+            "last_commit": "2026-10-10T03:40:05Z",
             "open_issues": 0,
             "owner": "guix-science",
             "repo": "guix-cran",
@@ -389,7 +389,7 @@
             "id": 744226377,
             "language": "Scheme",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-08T11:51:49Z",
+            "last_commit": "2026-10-10T07:59:22Z",
             "open_issues": 0,
             "owner": "guix-science",
             "repo": "guix-bioc",
@@ -461,7 +461,7 @@
                 "id": 726610453,
                 "language": "Scheme",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-09T03:33:13Z",
+                "last_commit": "2026-10-10T09:34:58Z",
                 "open_issues": 1,
                 "owner": "franzos",
                 "repo": "panther",
@@ -680,7 +680,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T13:08:58.992Z",
+    "last_updated": "2026-10-10T12:24:26.033Z",
     "original_repository_info": {
       "archived": false,
       "description": "Docs, Channels, example configs and more - Guix is Awesome",

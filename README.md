@@ -113,7 +113,7 @@
 
 ### Issue Trackers
 
-* [pantherx](https://github.com/franzos/panther/issues) ⭐ 16 | 🐛 1 | 🌐 Scheme | 📅 2026-10-10 - Issues for the PantherX channel.
+* [pantherx](https://github.com/franzos/panther/issues) ⭐ 16 | 🐛 1 | 🌐 Scheme | 📅 2026-10-11 - Issues for the PantherX channel.
 * [guix](https://codeberg.org/guix/guix/issues) - Issues for Guix itself.
 * [nonguix](https://gitlab.com/nonguix/nonguix/-/work_items) - Issues for the nonguix channel.
 
@@ -146,7 +146,7 @@ Want to run your own substitute server? Check out [Cuirass](https://guix.gnu.org
 When you're stuck, it's super helpful to see what others are doing.
 
 * [podiki/dot.me](https://github.com/podiki/dot.me/tree/master/guix/.config/guix) ⭐ 55 | 🐛 0 | 🌐 Scheme | 📅 2026-08-10 - Guix configuration in literate dotfiles, tangled from Org and linked with GNU Stow.
-* [hiecaq/guix-config](https://github.com/hiecaq/guix-config) ⭐ 41 | 🐛 0 | 📅 2026-09-06 - Literate Org configuration covering system, home and channels.
+* [hiecaq/guix-config](https://github.com/hiecaq/guix-config) ⭐ 41 | 🐛 0 | 📅 2026-10-11 - Literate Org configuration covering system, home and channels.
 * [aurtzy/guix-config](https://github.com/aurtzy/guix-config) ⭐ 20 | 🐛 0 | 🌐 Scheme | 📅 2026-10-02 - System and home configuration modularized with "mods", an extension to Guix records.
 * [franzos/dotfiles](https://github.com/franzos/dotfiles) ⭐ 9 | 🐛 0 | 🌐 Scheme | 📅 2026-08-26 - Two-host Guix System configuration with a shared module and system hardening.
 * [aartaka/guix-config](https://github.com/aartaka/guix-config) ⭐ 8 | 🐛 1 | 🌐 Scheme | 📅 2024-10-24 - System configuration and a large development manifest.
@@ -161,7 +161,7 @@ When you're stuck, it's super helpful to see what others are doing.
 
 ## Misc
 
-* [metacall/guix](https://github.com/metacall/guix) ⭐ 68 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-17 - Docker image for using Guix in a CI/CD environment.
+* [metacall/guix](https://github.com/metacall/guix) ⭐ 69 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-17 - Docker image for using Guix in a CI/CD environment.
 * [guix-vm](https://github.com/palfrey/guix-vm) ⭐ 22 | 🐛 2 | 🌐 Ruby | 📅 2026-09-20 - Scripts and support necessary to make a GuixSD VirtualBox image.
 * [DistroWatch](https://distrowatch.com/table.php?distribution=guixsd) - Release history and package versions of Guix System.
 * [flathub.org/setup](https://flathub.org/en/setup/GNU%20Guix) - Flatpak on Guix.
@@ -195,4 +195,4 @@ Unmaintained and archived entries, still useful as references, are listed in [un
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._

@@ -461,7 +461,7 @@
                 "id": 726610453,
                 "language": "Scheme",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-10T09:34:58Z",
+                "last_commit": "2026-10-11T07:15:30Z",
                 "open_issues": 1,
                 "owner": "franzos",
                 "repo": "panther",
@@ -528,7 +528,7 @@
             "id": 586472175,
             "language": null,
             "license": "GPL-3.0",
-            "last_commit": "2026-09-06T12:16:04Z",
+            "last_commit": "2026-10-11T09:33:14Z",
             "open_issues": 0,
             "owner": "hiecaq",
             "repo": "guix-config",
@@ -643,7 +643,7 @@
             "open_issues": 6,
             "owner": "metacall",
             "repo": "guix",
-            "stars": 68,
+            "stars": 69,
             "topics": []
           },
           "first_seen": "2026-08-28T18:36:49.323Z"
@@ -680,7 +680,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T12:24:26.033Z",
+    "last_updated": "2026-10-11T12:41:45.414Z",
     "original_repository_info": {
       "archived": false,
       "description": "Docs, Channels, example configs and more - Guix is Awesome",
@@ -692,7 +692,7 @@
       "open_issues": 1,
       "owner": "franzos",
       "repo": "awesome-guix",
-      "stars": 144,
+      "stars": 145,
       "topics": [
         "awesome",
         "awesome-list",

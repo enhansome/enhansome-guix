@@ -60,7 +60,7 @@
 * [gocix](https://github.com/fishinthecalculator/gocix) ⭐ 28 | 🐛 8 | 🌐 Scheme | 📅 2026-06-20 - Community managed library of Guix services.
 * [bin-guix](https://github.com/ieugen/bin-guix) ⭐ 19 | 🐛 0 | 🌐 Scheme | 📅 2026-07-24 - Binary packages.
 * [guix-tailscale](https://github.com/umanwizard/guix-tailscale) ⭐ 15 | 🐛 3 | 🌐 Scheme | 📅 2026-09-18 - Provides tailscale, tailscaled, and tailscale-service-type.
-* [guix-cran](https://github.com/guix-science/guix-cran) ⭐ 12 | 🐛 0 | 🌐 Scheme | 📅 2026-10-12 - All R packages not available in Guix yet.
+* [guix-cran](https://github.com/guix-science/guix-cran) ⭐ 12 | 🐛 0 | 🌐 Scheme | 📅 2026-10-13 - All R packages not available in Guix yet.
 * [gundroid](https://github.com/shegeley/gundroid) ⭐ 9 | 🐛 2 | 🌐 Scheme | 📅 2026-08-24 - Android tools packages.
 * [ROCKTAKEY/roquix](https://github.com/ROCKTAKEY/roquix) ⭐ 9 | 🐛 19 | 🌐 Scheme | 📅 2026-10-07 - Roquix Guix channel.
 * [guix-cn](https://github.com/guixcn/guix-channel) ⭐ 8 | 🐛 1 | 🌐 Scheme | 📅 2025-10-11 - Channel of the Guix China community.
@@ -195,4 +195,4 @@ Unmaintained and archived entries, still useful as references, are listed in [un
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._

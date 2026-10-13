@@ -226,7 +226,7 @@
             "id": 553458650,
             "language": "Scheme",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-12T03:46:22Z",
+            "last_commit": "2026-10-13T06:45:29Z",
             "open_issues": 0,
             "owner": "guix-science",
             "repo": "guix-cran",
@@ -680,7 +680,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T15:13:51.480Z",
+    "last_updated": "2026-10-13T14:04:52.305Z",
     "original_repository_info": {
       "archived": false,
       "description": "Docs, Channels, example configs and more - Guix is Awesome",

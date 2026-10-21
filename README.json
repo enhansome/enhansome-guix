@@ -209,7 +209,7 @@
             "open_issues": 3,
             "owner": "umanwizard",
             "repo": "guix-tailscale",
-            "stars": 15,
+            "stars": 16,
             "topics": []
           },
           "first_seen": "2026-08-28T18:36:49.323Z"
@@ -226,7 +226,7 @@
             "id": 553458650,
             "language": "Scheme",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-20T05:50:48Z",
+            "last_commit": "2026-10-21T04:19:21Z",
             "open_issues": 0,
             "owner": "guix-science",
             "repo": "guix-cran",
@@ -273,8 +273,8 @@
             "id": 481501653,
             "language": "Scheme",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-19T15:53:21Z",
-            "open_issues": 14,
+            "last_commit": "2026-10-21T00:07:22Z",
+            "open_issues": 12,
             "owner": "ROCKTAKEY",
             "repo": "roquix",
             "stars": 9,
@@ -639,7 +639,7 @@
             "id": 209222193,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-17T05:16:56Z",
+            "last_commit": "2026-10-21T07:04:55Z",
             "open_issues": 6,
             "owner": "metacall",
             "repo": "guix",
@@ -680,7 +680,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T11:27:41.964Z",
+    "last_updated": "2026-10-21T11:40:48.249Z",
     "original_repository_info": {
       "archived": false,
       "description": "Docs, Channels, example configs and more - Guix is Awesome",

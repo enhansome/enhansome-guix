@@ -67,9 +67,9 @@
 * [emacs-master](https://github.com/gs-101/emacs-master) ⭐ 6 | 🐛 0 | 🌐 Emacs Lisp | 📅 2026-10-19 - The latest Emacs from the master branch.
 * [guix-telegram-desktop](https://github.com/johnlepikhin/guix-telegram-desktop) ⭐ 6 | 🐛 1 | 🌐 Scheme | 📅 2026-08-29 - Latest version of telegram-desktop.
 * [guix-wigust](https://github.com/kitnil/guix-wigust) ⭐ 5 | 🐛 0 | 🌐 Scheme | 📅 2024-01-08 - Extra packages.
-* [guix-bioc](https://github.com/guix-science/guix-bioc) ⭐ 4 | 🐛 0 | 🌐 Scheme | 📅 2026-10-20 - The entire Bioconductor collection, generated like guix-cran.
+* [guix-bioc](https://github.com/guix-science/guix-bioc) ⭐ 4 | 🐛 0 | 🌐 Scheme | 📅 2026-10-22 - The entire Bioconductor collection, generated like guix-cran.
 * [Jonabron](https://github.com/librepup/jonabron) ⭐ 1 | 🐛 0 | 🌐 Shell | 📅 2026-08-06 - Provides osu!lazer, Vicinae, Discord, and more.
-* [guix-discord](https://github.com/jack-faller/guix-discord) ⭐ 1 | 🐛 1 | 🌐 Scheme | 📅 2026-10-20 - Discord, and some Discord related packages.
+* [guix-discord](https://github.com/jack-faller/guix-discord) ⭐ 1 | 🐛 1 | 🌐 Scheme | 📅 2026-10-22 - Discord, and some Discord related packages.
 * [guix](https://codeberg.org/guix/guix) - The primary channel. Legacy repository on [GNU Savannah](https://git.savannah.gnu.org/cgit/guix.git).
 * [nonguix](https://gitlab.com/nonguix/nonguix) - Packages that can't be included upstream.
 * [pantherx](https://codeberg.org/gofranz/panther) - System and packages for PantherX.
@@ -113,7 +113,7 @@
 
 ### Issue Trackers
 
-* [pantherx](https://github.com/franzos/panther/issues) ⭐ 16 | 🐛 1 | 🌐 Scheme | 📅 2026-10-20 - Issues for the PantherX channel.
+* [pantherx](https://github.com/franzos/panther/issues) ⭐ 16 | 🐛 1 | 🌐 Scheme | 📅 2026-10-21 - Issues for the PantherX channel.
 * [guix](https://codeberg.org/guix/guix/issues) - Issues for Guix itself.
 * [nonguix](https://gitlab.com/nonguix/nonguix/-/work_items) - Issues for the nonguix channel.
 
@@ -161,7 +161,7 @@ When you're stuck, it's super helpful to see what others are doing.
 
 ## Misc
 
-* [metacall/guix](https://github.com/metacall/guix) ⭐ 69 | 🐛 6 | 🌐 JavaScript | 📅 2026-10-21 - Docker image for using Guix in a CI/CD environment.
+* [metacall/guix](https://github.com/metacall/guix) ⭐ 69 | 🐛 5 | 🌐 JavaScript | 📅 2026-10-21 - Docker image for using Guix in a CI/CD environment.
 * [guix-vm](https://github.com/palfrey/guix-vm) ⭐ 22 | 🐛 2 | 🌐 Ruby | 📅 2026-09-20 - Scripts and support necessary to make a GuixSD VirtualBox image.
 * [DistroWatch](https://distrowatch.com/table.php?distribution=guixsd) - Release history and package versions of Guix System.
 * [flathub.org/setup](https://flathub.org/en/setup/GNU%20Guix) - Flatpak on Guix.
@@ -195,4 +195,4 @@ Unmaintained and archived entries, still useful as references, are listed in [un
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._

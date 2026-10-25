@@ -273,7 +273,7 @@
             "id": 481501653,
             "language": "Scheme",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-24T02:29:49Z",
+            "last_commit": "2026-10-25T10:06:39Z",
             "open_issues": 12,
             "owner": "ROCKTAKEY",
             "repo": "roquix",
@@ -660,8 +660,8 @@
             "id": 197920511,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-22T19:02:03Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-24T16:43:55Z",
+            "open_issues": 2,
             "owner": "palfrey",
             "repo": "guix-vm",
             "stars": 22,
@@ -680,7 +680,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T10:51:24.695Z",
+    "last_updated": "2026-10-25T11:17:11.618Z",
     "original_repository_info": {
       "archived": false,
       "description": "Docs, Channels, example configs and more - Guix is Awesome",

@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "franzos",
             "repo": "guix-install",
-            "stars": 15,
+            "stars": 16,
             "topics": [
               "guix",
               "guix-configuration",
@@ -47,7 +47,7 @@
             "open_issues": 1,
             "owner": "franzos",
             "repo": "guix-rs",
-            "stars": 6,
+            "stars": 7,
             "topics": [
               "guix",
               "guixsd",
@@ -73,7 +73,7 @@
             "open_issues": 0,
             "owner": "cristiancmoises",
             "repo": "esquema",
-            "stars": 6,
+            "stars": 7,
             "topics": []
           },
           "first_seen": "2026-08-28T18:36:49.323Z"
@@ -256,7 +256,7 @@
             "open_issues": 2,
             "owner": "shegeley",
             "repo": "gundroid",
-            "stars": 10,
+            "stars": 11,
             "topics": []
           },
           "first_seen": "2026-08-28T18:36:49.323Z"
@@ -273,8 +273,8 @@
             "id": 481501653,
             "language": "Scheme",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-25T10:06:39Z",
-            "open_issues": 12,
+            "last_commit": "2026-10-26T10:00:35Z",
+            "open_issues": 11,
             "owner": "ROCKTAKEY",
             "repo": "roquix",
             "stars": 9,
@@ -319,7 +319,7 @@
             "id": 917822994,
             "language": "Emacs Lisp",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-19T03:55:10Z",
+            "last_commit": "2026-10-26T04:10:10Z",
             "open_issues": 0,
             "owner": "gs-101",
             "repo": "emacs-master",
@@ -389,7 +389,7 @@
             "id": 744226377,
             "language": "Scheme",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-24T08:59:07Z",
+            "last_commit": "2026-10-26T09:02:58Z",
             "open_issues": 0,
             "owner": "guix-science",
             "repo": "guix-bioc",
@@ -461,7 +461,7 @@
                 "id": 726610453,
                 "language": "Scheme",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-23T06:37:17Z",
+                "last_commit": "2026-10-25T14:18:10Z",
                 "open_issues": 1,
                 "owner": "franzos",
                 "repo": "panther",
@@ -680,7 +680,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T11:17:11.618Z",
+    "last_updated": "2026-10-26T12:50:45.057Z",
     "original_repository_info": {
       "archived": false,
       "description": "Docs, Channels, example configs and more - Guix is Awesome",
@@ -692,7 +692,7 @@
       "open_issues": 1,
       "owner": "franzos",
       "repo": "awesome-guix",
-      "stars": 148,
+      "stars": 149,
       "topics": [
         "awesome",
         "awesome-list",

@@ -389,7 +389,7 @@
             "id": 744226377,
             "language": "Scheme",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-26T09:02:58Z",
+            "last_commit": "2026-10-27T08:58:13Z",
             "open_issues": 0,
             "owner": "guix-science",
             "repo": "guix-bioc",
@@ -438,7 +438,7 @@
             "id": 1292683418,
             "language": "Scheme",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-23T18:20:59Z",
+            "last_commit": "2026-10-26T18:50:14Z",
             "open_issues": 1,
             "owner": "jack-faller",
             "repo": "guix-discord",
@@ -577,7 +577,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Guix dotflines",
+            "description": "Guix dotflines - I've suspended updates of this repo, for security reasons.",
             "homepage": null,
             "id": 739900433,
             "language": "Scheme",
@@ -680,7 +680,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T12:50:45.057Z",
+    "last_updated": "2026-10-27T12:01:56.009Z",
     "original_repository_info": {
       "archived": false,
       "description": "Docs, Channels, example configs and more - Guix is Awesome",
@@ -692,7 +692,7 @@
       "open_issues": 1,
       "owner": "franzos",
       "repo": "awesome-guix",
-      "stars": 149,
+      "stars": 151,
       "topics": [
         "awesome",
         "awesome-list",

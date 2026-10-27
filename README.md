@@ -67,9 +67,9 @@
 * [emacs-master](https://github.com/gs-101/emacs-master) ⭐ 6 | 🐛 0 | 🌐 Emacs Lisp | 📅 2026-10-26 - The latest Emacs from the master branch.
 * [guix-telegram-desktop](https://github.com/johnlepikhin/guix-telegram-desktop) ⭐ 6 | 🐛 1 | 🌐 Scheme | 📅 2026-08-29 - Latest version of telegram-desktop.
 * [guix-wigust](https://github.com/kitnil/guix-wigust) ⭐ 5 | 🐛 0 | 🌐 Scheme | 📅 2024-01-08 - Extra packages.
-* [guix-bioc](https://github.com/guix-science/guix-bioc) ⭐ 4 | 🐛 0 | 🌐 Scheme | 📅 2026-10-26 - The entire Bioconductor collection, generated like guix-cran.
+* [guix-bioc](https://github.com/guix-science/guix-bioc) ⭐ 4 | 🐛 0 | 🌐 Scheme | 📅 2026-10-27 - The entire Bioconductor collection, generated like guix-cran.
 * [Jonabron](https://github.com/librepup/jonabron) ⭐ 1 | 🐛 0 | 🌐 Shell | 📅 2026-08-06 - Provides osu!lazer, Vicinae, Discord, and more.
-* [guix-discord](https://github.com/jack-faller/guix-discord) ⭐ 1 | 🐛 1 | 🌐 Scheme | 📅 2026-10-23 - Discord, and some Discord related packages.
+* [guix-discord](https://github.com/jack-faller/guix-discord) ⭐ 1 | 🐛 1 | 🌐 Scheme | 📅 2026-10-26 - Discord, and some Discord related packages.
 * [guix](https://codeberg.org/guix/guix) - The primary channel. Legacy repository on [GNU Savannah](https://git.savannah.gnu.org/cgit/guix.git).
 * [nonguix](https://gitlab.com/nonguix/nonguix) - Packages that can't be included upstream.
 * [pantherx](https://codeberg.org/gofranz/panther) - System and packages for PantherX.
@@ -195,4 +195,4 @@ Unmaintained and archived entries, still useful as references, are listed in [un
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._

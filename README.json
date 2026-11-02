@@ -216,6 +216,27 @@
         },
         {
           "node_type": "item",
+          "title": "gundroid",
+          "description": "Android tools packages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Android tools packages in Guix",
+            "homepage": null,
+            "id": 604048286,
+            "language": "Scheme",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-24T11:08:07Z",
+            "open_issues": 2,
+            "owner": "shegeley",
+            "repo": "gundroid",
+            "stars": 12,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T18:36:49.323Z"
+        },
+        {
+          "node_type": "item",
           "title": "guix-cran",
           "description": "All R packages not available in Guix yet.",
           "children": [],
@@ -242,27 +263,6 @@
         },
         {
           "node_type": "item",
-          "title": "gundroid",
-          "description": "Android tools packages.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Android tools packages in Guix",
-            "homepage": null,
-            "id": 604048286,
-            "language": "Scheme",
-            "license": "GPL-3.0",
-            "last_commit": "2026-08-24T11:08:07Z",
-            "open_issues": 2,
-            "owner": "shegeley",
-            "repo": "gundroid",
-            "stars": 11,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T18:36:49.323Z"
-        },
-        {
-          "node_type": "item",
           "title": "ROCKTAKEY/roquix",
           "description": "Roquix Guix channel.",
           "children": [],
@@ -273,7 +273,7 @@
             "id": 481501653,
             "language": "Scheme",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-01T09:50:06Z",
+            "last_commit": "2026-11-02T15:38:44Z",
             "open_issues": 11,
             "owner": "ROCKTAKEY",
             "repo": "roquix",
@@ -319,7 +319,7 @@
             "id": 917822994,
             "language": "Emacs Lisp",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-26T04:10:10Z",
+            "last_commit": "2026-11-02T05:11:18Z",
             "open_issues": 0,
             "owner": "gs-101",
             "repo": "emacs-master",
@@ -461,7 +461,7 @@
                 "id": 726610453,
                 "language": "Scheme",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-01T09:24:04Z",
+                "last_commit": "2026-11-02T02:41:06Z",
                 "open_issues": 1,
                 "owner": "franzos",
                 "repo": "panther",
@@ -639,7 +639,7 @@
             "id": 209222193,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T00:04:04Z",
+            "last_commit": "2026-11-02T13:55:20Z",
             "open_issues": 5,
             "owner": "metacall",
             "repo": "guix",
@@ -680,7 +680,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T13:13:23.149Z",
+    "last_updated": "2026-11-02T15:39:42.882Z",
     "original_repository_info": {
       "archived": false,
       "description": "Docs, Channels, example configs and more - Guix is Awesome",

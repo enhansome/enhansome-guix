@@ -44,9 +44,9 @@
 
 ## Tools
 
-* [guix-install](https://github.com/franzos/guix-install) ⭐ 16 | 🐛 0 | 🌐 Rust | 📅 2026-09-05 - Guix System installer: libre, nonguix, panther, or enterprise.
-* [guix-rs](https://github.com/franzos/guix-rs) ⭐ 7 | 🐛 1 | 🌐 Rust | 📅 2026-07-04 - Unofficial GUI for day-to-day Guix usage.
-* [esquema](https://github.com/cristiancmoises/esquema) ⭐ 7 | 🐛 0 | 🌐 C | 📅 2026-09-09 - Rootless, daemon-free container runtime written in Scheme, integrating with Guix and Shepherd.
+* [guix-install](https://github.com/franzos/guix-install) ⭐ 17 | 🐛 0 | 🌐 Rust | 📅 2026-09-05 - Guix System installer: libre, nonguix, panther, or enterprise.
+* [guix-rs](https://github.com/franzos/guix-rs) ⭐ 8 | 🐛 1 | 🌐 Rust | 📅 2026-07-04 - Unofficial GUI for day-to-day Guix usage.
+* [esquema](https://github.com/cristiancmoises/esquema) ⭐ 8 | 🐛 0 | 🌐 C | 📅 2026-09-09 - Rootless, daemon-free container runtime written in Scheme, integrating with Guix and Shepherd.
 * [Guix Packager](https://guix-hpc.gitlabpages.inria.fr/guix-packager/) - Write a package definition in a breeze.
 * [System Config Generator](https://www.pantherx.org/configs/) - Config generator for PantherX OS (similar to Guix).
 * [Guix Data Service](https://data.guix.gnu.org/) - Query packages, derivations and lint warnings for any revision of Guix.
@@ -62,14 +62,14 @@
 * [guix-tailscale](https://github.com/umanwizard/guix-tailscale) ⭐ 16 | 🐛 3 | 🌐 Scheme | 📅 2026-09-18 - Provides tailscale, tailscaled, and tailscale-service-type.
 * [gundroid](https://github.com/shegeley/gundroid) ⭐ 12 | 🐛 2 | 🌐 Scheme | 📅 2026-08-24 - Android tools packages.
 * [guix-cran](https://github.com/guix-science/guix-cran) ⭐ 12 | 🐛 0 | 🌐 Scheme | 📅 2026-11-05 - All R packages not available in Guix yet.
-* [ROCKTAKEY/roquix](https://github.com/ROCKTAKEY/roquix) ⭐ 9 | 🐛 15 | 🌐 Scheme | 📅 2026-11-08 - Roquix Guix channel.
+* [ROCKTAKEY/roquix](https://github.com/ROCKTAKEY/roquix) ⭐ 9 | 🐛 14 | 🌐 Scheme | 📅 2026-11-10 - Roquix Guix channel.
 * [guix-cn](https://github.com/guixcn/guix-channel) ⭐ 8 | 🐛 1 | 🌐 Scheme | 📅 2025-10-11 - Channel of the Guix China community.
 * [emacs-master](https://github.com/gs-101/emacs-master) ⭐ 6 | 🐛 0 | 🌐 Emacs Lisp | 📅 2026-11-02 - The latest Emacs from the master branch.
 * [guix-telegram-desktop](https://github.com/johnlepikhin/guix-telegram-desktop) ⭐ 6 | 🐛 1 | 🌐 Scheme | 📅 2026-08-29 - Latest version of telegram-desktop.
 * [guix-wigust](https://github.com/kitnil/guix-wigust) ⭐ 5 | 🐛 0 | 🌐 Scheme | 📅 2024-01-08 - Extra packages.
 * [guix-bioc](https://github.com/guix-science/guix-bioc) ⭐ 4 | 🐛 0 | 🌐 Scheme | 📅 2026-11-06 - The entire Bioconductor collection, generated like guix-cran.
 * [Jonabron](https://github.com/librepup/jonabron) ⭐ 1 | 🐛 0 | 🌐 Shell | 📅 2026-08-06 - Provides osu!lazer, Vicinae, Discord, and more.
-* [guix-discord](https://github.com/jack-faller/guix-discord) ⭐ 1 | 🐛 1 | 🌐 Scheme | 📅 2026-10-31 - Discord, and some Discord related packages.
+* [guix-discord](https://github.com/jack-faller/guix-discord) ⭐ 1 | 🐛 1 | 🌐 Scheme | 📅 2026-11-10 - Discord, and some Discord related packages.
 * [guix](https://codeberg.org/guix/guix) - The primary channel. Legacy repository on [GNU Savannah](https://git.savannah.gnu.org/cgit/guix.git).
 * [nonguix](https://gitlab.com/nonguix/nonguix) - Packages that can't be included upstream.
 * [pantherx](https://codeberg.org/gofranz/panther) - System and packages for PantherX.
@@ -113,7 +113,7 @@
 
 ### Issue Trackers
 
-* [pantherx](https://github.com/franzos/panther/issues) ⭐ 17 | 🐛 1 | 🌐 Scheme | 📅 2026-11-09 - Issues for the PantherX channel.
+* [pantherx](https://github.com/franzos/panther/issues) ⭐ 17 | 🐛 1 | 🌐 Scheme | 📅 2026-11-10 - Issues for the PantherX channel.
 * [guix](https://codeberg.org/guix/guix/issues) - Issues for Guix itself.
 * [nonguix](https://gitlab.com/nonguix/nonguix/-/work_items) - Issues for the nonguix channel.
 
@@ -195,4 +195,4 @@ Unmaintained and archived entries, still useful as references, are listed in [un
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._

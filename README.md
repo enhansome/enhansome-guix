@@ -62,7 +62,7 @@
 * [guix-tailscale](https://github.com/umanwizard/guix-tailscale) ⭐ 16 | 🐛 3 | 🌐 Scheme | 📅 2026-09-18 - Provides tailscale, tailscaled, and tailscale-service-type.
 * [gundroid](https://github.com/shegeley/gundroid) ⭐ 12 | 🐛 2 | 🌐 Scheme | 📅 2026-08-24 - Android tools packages.
 * [guix-cran](https://github.com/guix-science/guix-cran) ⭐ 12 | 🐛 0 | 🌐 Scheme | 📅 2026-11-11 - All R packages not available in Guix yet.
-* [ROCKTAKEY/roquix](https://github.com/ROCKTAKEY/roquix) ⭐ 9 | 🐛 15 | 🌐 Scheme | 📅 2026-11-11 - Roquix Guix channel.
+* [ROCKTAKEY/roquix](https://github.com/ROCKTAKEY/roquix) ⭐ 9 | 🐛 15 | 🌐 Scheme | 📅 2026-11-12 - Roquix Guix channel.
 * [guix-cn](https://github.com/guixcn/guix-channel) ⭐ 8 | 🐛 1 | 🌐 Scheme | 📅 2025-10-11 - Channel of the Guix China community.
 * [emacs-master](https://github.com/gs-101/emacs-master) ⭐ 6 | 🐛 0 | 🌐 Emacs Lisp | 📅 2026-11-02 - The latest Emacs from the master branch.
 * [guix-telegram-desktop](https://github.com/johnlepikhin/guix-telegram-desktop) ⭐ 6 | 🐛 1 | 🌐 Scheme | 📅 2026-08-29 - Latest version of telegram-desktop.
@@ -162,7 +162,7 @@ When you're stuck, it's super helpful to see what others are doing.
 ## Misc
 
 * [metacall/guix](https://github.com/metacall/guix) ⭐ 69 | 🐛 5 | 🌐 JavaScript | 📅 2026-11-02 - Docker image for using Guix in a CI/CD environment.
-* [guix-vm](https://github.com/palfrey/guix-vm) ⭐ 22 | 🐛 2 | 🌐 Ruby | 📅 2026-11-10 - Scripts and support necessary to make a GuixSD VirtualBox image.
+* [guix-vm](https://github.com/palfrey/guix-vm) ⭐ 22 | 🐛 4 | 🌐 Ruby | 📅 2026-11-11 - Scripts and support necessary to make a GuixSD VirtualBox image.
 * [DistroWatch](https://distrowatch.com/table.php?distribution=guixsd) - Release history and package versions of Guix System.
 * [flathub.org/setup](https://flathub.org/en/setup/GNU%20Guix) - Flatpak on Guix.
 * [kristianlm/hetzner.scm](https://gist.github.com/kristianlm/089a6759a74dcd2e6f702847cf919ed2) - Guix on Hetzner Cloud.
@@ -195,4 +195,4 @@ Unmaintained and archived entries, still useful as references, are listed in [un
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._

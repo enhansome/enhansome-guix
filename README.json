@@ -16,7 +16,7 @@
             "language": "Rust",
             "license": "GPL-3.0",
             "last_commit": "2026-09-05T12:17:39Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "franzos",
             "repo": "guix-install",
             "stars": 17,
@@ -461,7 +461,7 @@
                 "id": 726610453,
                 "language": "Scheme",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-13T16:34:46Z",
+                "last_commit": "2026-11-16T06:01:56Z",
                 "open_issues": 1,
                 "owner": "franzos",
                 "repo": "panther",
@@ -680,7 +680,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T13:51:54.034Z",
+    "last_updated": "2026-11-16T15:35:27.317Z",
     "original_repository_info": {
       "archived": false,
       "description": "Docs, Channels, example configs and more - Guix is Awesome",

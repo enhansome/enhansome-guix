@@ -44,7 +44,7 @@
 
 ## Tools
 
-* [guix-install](https://github.com/franzos/guix-install) ⭐ 17 | 🐛 0 | 🌐 Rust | 📅 2026-09-05 - Guix System installer: libre, nonguix, panther, or enterprise.
+* [guix-install](https://github.com/franzos/guix-install) ⭐ 17 | 🐛 1 | 🌐 Rust | 📅 2026-09-05 - Guix System installer: libre, nonguix, panther, or enterprise.
 * [guix-rs](https://github.com/franzos/guix-rs) ⭐ 8 | 🐛 1 | 🌐 Rust | 📅 2026-07-04 - Unofficial GUI for day-to-day Guix usage.
 * [esquema](https://github.com/cristiancmoises/esquema) ⭐ 8 | 🐛 0 | 🌐 C | 📅 2026-09-09 - Rootless, daemon-free container runtime written in Scheme, integrating with Guix and Shepherd.
 * [Guix Packager](https://guix-hpc.gitlabpages.inria.fr/guix-packager/) - Write a package definition in a breeze.
@@ -113,7 +113,7 @@
 
 ### Issue Trackers
 
-* [pantherx](https://github.com/franzos/panther/issues) ⭐ 17 | 🐛 1 | 🌐 Scheme | 📅 2026-11-13 - Issues for the PantherX channel.
+* [pantherx](https://github.com/franzos/panther/issues) ⭐ 17 | 🐛 1 | 🌐 Scheme | 📅 2026-11-16 - Issues for the PantherX channel.
 * [guix](https://codeberg.org/guix/guix/issues) - Issues for Guix itself.
 * [nonguix](https://gitlab.com/nonguix/nonguix/-/work_items) - Issues for the nonguix channel.
 
@@ -195,4 +195,4 @@ Unmaintained and archived entries, still useful as references, are listed in [un
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._

@@ -113,7 +113,7 @@
 
 ### Issue Trackers
 
-* [pantherx](https://github.com/franzos/panther/issues) ⭐ 17 | 🐛 1 | 🌐 Scheme | 📅 2026-11-16 - Issues for the PantherX channel.
+* [pantherx](https://github.com/franzos/panther/issues) ⭐ 17 | 🐛 1 | 🌐 Scheme | 📅 2026-11-17 - Issues for the PantherX channel.
 * [guix](https://codeberg.org/guix/guix/issues) - Issues for Guix itself.
 * [nonguix](https://gitlab.com/nonguix/nonguix/-/work_items) - Issues for the nonguix channel.
 
@@ -161,7 +161,7 @@ When you're stuck, it's super helpful to see what others are doing.
 
 ## Misc
 
-* [metacall/guix](https://github.com/metacall/guix) ⭐ 69 | 🐛 5 | 🌐 JavaScript | 📅 2026-11-02 - Docker image for using Guix in a CI/CD environment.
+* [metacall/guix](https://github.com/metacall/guix) ⭐ 70 | 🐛 5 | 🌐 JavaScript | 📅 2026-11-16 - Docker image for using Guix in a CI/CD environment.
 * [guix-vm](https://github.com/palfrey/guix-vm) ⭐ 22 | 🐛 2 | 🌐 Ruby | 📅 2026-11-15 - Scripts and support necessary to make a GuixSD VirtualBox image.
 * [DistroWatch](https://distrowatch.com/table.php?distribution=guixsd) - Release history and package versions of Guix System.
 * [flathub.org/setup](https://flathub.org/en/setup/GNU%20Guix) - Flatpak on Guix.
@@ -195,4 +195,4 @@ Unmaintained and archived entries, still useful as references, are listed in [un
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._

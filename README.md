@@ -60,9 +60,9 @@
 * [gocix](https://github.com/fishinthecalculator/gocix) ⭐ 28 | 🐛 8 | 🌐 Scheme | 📅 2026-11-11 - Community managed library of Guix services.
 * [bin-guix](https://github.com/ieugen/bin-guix) ⭐ 19 | 🐛 0 | 🌐 Scheme | 📅 2026-07-24 - Binary packages.
 * [guix-tailscale](https://github.com/umanwizard/guix-tailscale) ⭐ 16 | 🐛 3 | 🌐 Scheme | 📅 2026-09-18 - Provides tailscale, tailscaled, and tailscale-service-type.
-* [gundroid](https://github.com/shegeley/gundroid) ⭐ 12 | 🐛 2 | 🌐 Scheme | 📅 2026-08-24 - Android tools packages.
 * [guix-cran](https://github.com/guix-science/guix-cran) ⭐ 12 | 🐛 0 | 🌐 Scheme | 📅 2026-11-11 - All R packages not available in Guix yet.
-* [ROCKTAKEY/roquix](https://github.com/ROCKTAKEY/roquix) ⭐ 9 | 🐛 14 | 🌐 Scheme | 📅 2026-11-14 - Roquix Guix channel.
+* [gundroid](https://github.com/shegeley/gundroid) ⭐ 11 | 🐛 2 | 🌐 Scheme | 📅 2026-08-24 - Android tools packages.
+* [ROCKTAKEY/roquix](https://github.com/ROCKTAKEY/roquix) ⭐ 9 | 🐛 14 | 🌐 Scheme | 📅 2026-11-18 - Roquix Guix channel.
 * [guix-cn](https://github.com/guixcn/guix-channel) ⭐ 8 | 🐛 1 | 🌐 Scheme | 📅 2025-10-11 - Channel of the Guix China community.
 * [emacs-master](https://github.com/gs-101/emacs-master) ⭐ 6 | 🐛 0 | 🌐 Emacs Lisp | 📅 2026-11-02 - The latest Emacs from the master branch.
 * [guix-telegram-desktop](https://github.com/johnlepikhin/guix-telegram-desktop) ⭐ 6 | 🐛 1 | 🌐 Scheme | 📅 2026-11-13 - Latest version of telegram-desktop.
@@ -113,7 +113,7 @@
 
 ### Issue Trackers
 
-* [pantherx](https://github.com/franzos/panther/issues) ⭐ 17 | 🐛 1 | 🌐 Scheme | 📅 2026-11-17 - Issues for the PantherX channel.
+* [pantherx](https://github.com/franzos/panther/issues) ⭐ 17 | 🐛 1 | 🌐 Scheme | 📅 2026-11-18 - Issues for the PantherX channel.
 * [guix](https://codeberg.org/guix/guix/issues) - Issues for Guix itself.
 * [nonguix](https://gitlab.com/nonguix/nonguix/-/work_items) - Issues for the nonguix channel.
 
@@ -148,7 +148,7 @@ When you're stuck, it's super helpful to see what others are doing.
 * [podiki/dot.me](https://github.com/podiki/dot.me/tree/master/guix/.config/guix) ⭐ 55 | 🐛 0 | 🌐 Scheme | 📅 2026-11-13 - Guix configuration in literate dotfiles, tangled from Org and linked with GNU Stow.
 * [hiecaq/guix-config](https://github.com/hiecaq/guix-config) ⭐ 41 | 🐛 0 | 📅 2026-11-15 - Literate Org configuration covering system, home and channels.
 * [aurtzy/guix-config](https://github.com/aurtzy/guix-config) ⭐ 21 | 🐛 0 | 🌐 Scheme | 📅 2026-10-02 - System and home configuration modularized with "mods", an extension to Guix records.
-* [franzos/dotfiles](https://github.com/franzos/dotfiles) ⭐ 9 | 🐛 0 | 🌐 Scheme | 📅 2026-08-26 - Two-host Guix System configuration with a shared module and system hardening.
+* [franzos/dotfiles](https://github.com/franzos/dotfiles) ⭐ 10 | 🐛 0 | 🌐 Scheme | 📅 2026-08-26 - Two-host Guix System configuration with a shared module and system hardening.
 * [aartaka/guix-config](https://github.com/aartaka/guix-config) ⭐ 8 | 🐛 1 | 🌐 Scheme | 📅 2024-10-24 - System configuration and a large development manifest.
 * [tyreunom/system-configuration](https://framagit.org/tyreunom/system-configuration) - Personal system configuration.
 * [anemofilia/zero](https://codeberg.org/anemofilia/zero) - Modular system and home environments that keep desktop concerns out of the operating system.
@@ -195,4 +195,4 @@ Unmaintained and archived entries, still useful as references, are listed in [un
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._

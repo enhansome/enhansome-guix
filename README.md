@@ -44,7 +44,7 @@
 
 ## Tools
 
-* [guix-install](https://github.com/franzos/guix-install) ⭐ 17 | 🐛 3 | 🌐 Rust | 📅 2026-11-23 - Guix System installer: libre, nonguix, panther, or enterprise.
+* [guix-install](https://github.com/franzos/guix-install) ⭐ 17 | 🐛 3 | 🌐 Rust | 📅 2026-11-26 - Guix System installer: libre, nonguix, panther, or enterprise.
 * [guix-rs](https://github.com/franzos/guix-rs) ⭐ 8 | 🐛 1 | 🌐 Rust | 📅 2026-11-23 - Unofficial GUI for day-to-day Guix usage.
 * [esquema](https://github.com/cristiancmoises/esquema) ⭐ 8 | 🐛 0 | 🌐 C | 📅 2026-09-09 - Rootless, daemon-free container runtime written in Scheme, integrating with Guix and Shepherd.
 * [Guix Packager](https://guix-hpc.gitlabpages.inria.fr/guix-packager/) - Write a package definition in a breeze.
@@ -62,7 +62,7 @@
 * [guix-tailscale](https://github.com/umanwizard/guix-tailscale) ⭐ 16 | 🐛 3 | 🌐 Scheme | 📅 2026-09-18 - Provides tailscale, tailscaled, and tailscale-service-type.
 * [guix-cran](https://github.com/guix-science/guix-cran) ⭐ 12 | 🐛 0 | 🌐 Scheme | 📅 2026-11-11 - All R packages not available in Guix yet.
 * [gundroid](https://github.com/shegeley/gundroid) ⭐ 11 | 🐛 2 | 🌐 Scheme | 📅 2026-08-24 - Android tools packages.
-* [ROCKTAKEY/roquix](https://github.com/ROCKTAKEY/roquix) ⭐ 9 | 🐛 9 | 🌐 Scheme | 📅 2026-11-24 - Roquix Guix channel.
+* [ROCKTAKEY/roquix](https://github.com/ROCKTAKEY/roquix) ⭐ 9 | 🐛 9 | 🌐 Scheme | 📅 2026-11-26 - Roquix Guix channel.
 * [guix-cn](https://github.com/guixcn/guix-channel) ⭐ 8 | 🐛 1 | 🌐 Scheme | 📅 2025-10-11 - Channel of the Guix China community.
 * [emacs-master](https://github.com/gs-101/emacs-master) ⭐ 6 | 🐛 0 | 🌐 Emacs Lisp | 📅 2026-11-02 - The latest Emacs from the master branch.
 * [guix-telegram-desktop](https://github.com/johnlepikhin/guix-telegram-desktop) ⭐ 6 | 🐛 1 | 🌐 Scheme | 📅 2026-11-13 - Latest version of telegram-desktop.
@@ -113,7 +113,7 @@
 
 ### Issue Trackers
 
-* [pantherx](https://github.com/franzos/panther/issues) ⭐ 17 | 🐛 1 | 🌐 Scheme | 📅 2026-11-25 - Issues for the PantherX channel.
+* [pantherx](https://github.com/franzos/panther/issues) ⭐ 17 | 🐛 1 | 🌐 Scheme | 📅 2026-11-26 - Issues for the PantherX channel.
 * [guix](https://codeberg.org/guix/guix/issues) - Issues for Guix itself.
 * [nonguix](https://gitlab.com/nonguix/nonguix/-/work_items) - Issues for the nonguix channel.
 
@@ -161,8 +161,8 @@ When you're stuck, it's super helpful to see what others are doing.
 
 ## Misc
 
-* [metacall/guix](https://github.com/metacall/guix) ⭐ 71 | 🐛 5 | 🌐 JavaScript | 📅 2026-11-23 - Docker image for using Guix in a CI/CD environment.
-* [guix-vm](https://github.com/palfrey/guix-vm) ⭐ 22 | 🐛 2 | 🌐 Ruby | 📅 2026-11-15 - Scripts and support necessary to make a GuixSD VirtualBox image.
+* [metacall/guix](https://github.com/metacall/guix) ⭐ 70 | 🐛 5 | 🌐 JavaScript | 📅 2026-11-23 - Docker image for using Guix in a CI/CD environment.
+* [guix-vm](https://github.com/palfrey/guix-vm) ⭐ 22 | 🐛 2 | 🌐 Ruby | 📅 2026-11-25 - Scripts and support necessary to make a GuixSD VirtualBox image.
 * [DistroWatch](https://distrowatch.com/table.php?distribution=guixsd) - Release history and package versions of Guix System.
 * [flathub.org/setup](https://flathub.org/en/setup/GNU%20Guix) - Flatpak on Guix.
 * [kristianlm/hetzner.scm](https://gist.github.com/kristianlm/089a6759a74dcd2e6f702847cf919ed2) - Guix on Hetzner Cloud.
@@ -195,4 +195,4 @@ Unmaintained and archived entries, still useful as references, are listed in [un
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._

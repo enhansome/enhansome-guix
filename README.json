@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "GPL-3.0",
             "last_commit": "2026-11-26T14:31:29Z",
-            "open_issues": 3,
+            "open_issues": 2,
             "owner": "franzos",
             "repo": "guix-install",
-            "stars": 17,
+            "stars": 16,
             "topics": [
               "guix",
               "guix-configuration",
@@ -273,8 +273,8 @@
             "id": 481501653,
             "language": "Scheme",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-26T12:05:56Z",
-            "open_issues": 9,
+            "last_commit": "2026-11-27T00:14:28Z",
+            "open_issues": 10,
             "owner": "ROCKTAKEY",
             "repo": "roquix",
             "stars": 9,
@@ -461,7 +461,7 @@
                 "id": 726610453,
                 "language": "Scheme",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-26T14:38:05Z",
+                "last_commit": "2026-11-26T17:31:08Z",
                 "open_issues": 1,
                 "owner": "franzos",
                 "repo": "panther",
@@ -586,7 +586,7 @@
             "open_issues": 0,
             "owner": "franzos",
             "repo": "dotfiles",
-            "stars": 10,
+            "stars": 9,
             "topics": [
               "dotfiles",
               "guix",
@@ -680,7 +680,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T16:46:57.664Z",
+    "last_updated": "2026-11-27T16:32:33.844Z",
     "original_repository_info": {
       "archived": false,
       "description": "Docs, Channels, example configs and more - Guix is Awesome",

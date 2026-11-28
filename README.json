@@ -273,8 +273,8 @@
             "id": 481501653,
             "language": "Scheme",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-27T00:14:28Z",
-            "open_issues": 10,
+            "last_commit": "2026-11-28T11:17:03Z",
+            "open_issues": 9,
             "owner": "ROCKTAKEY",
             "repo": "roquix",
             "stars": 9,
@@ -680,7 +680,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T16:32:33.844Z",
+    "last_updated": "2026-11-28T15:25:23.953Z",
     "original_repository_info": {
       "archived": false,
       "description": "Docs, Channels, example configs and more - Guix is Awesome",
